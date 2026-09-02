@@ -5,71 +5,352 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>GamePulse | Gaming News & Guides</title>
 <meta name="description" content="GamePulse brings gaming news, guides, reviews and official download links.">
+
 <style>
-:root{--bg:#0b1020;--card:#151c33;--text:#f5f7ff;--muted:#aab2cc;--accent:#6c7cff}
-*{box-sizing:border-box} body{margin:0;font-family:Arial,sans-serif;background:var(--bg);color:var(--text)}
-header{position:sticky;top:0;background:#0b1020ee;backdrop-filter:blur(10px);border-bottom:1px solid #202947;z-index:5}
-nav{max-width:1050px;margin:auto;padding:16px 20px;display:flex;justify-content:space-between;align-items:center}
-.logo{font-size:22px;font-weight:800}.logo span{color:var(--accent)}
-nav a{color:var(--muted);text-decoration:none;margin-left:16px;font-size:14px}
-.hero{max-width:1050px;margin:auto;padding:75px 20px 45px;text-align:center}
-.badge{display:inline-block;background:#202947;color:#cbd2ff;padding:8px 14px;border-radius:99px;font-size:13px}
-h1{font-size:clamp(38px,8vw,68px);margin:18px 0 12px}.hero p{max-width:620px;margin:auto;color:var(--muted);line-height:1.6}
-.btn{display:inline-block;margin-top:25px;background:var(--accent);color:white;padding:13px 20px;border-radius:10px;text-decoration:none;font-weight:bold}
-main{max-width:1050px;margin:auto;padding:20px}.section-title{font-size:26px;margin:35px 0 18px}
-.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}.card{background:var(--card);border:1px solid #242e50;border-radius:16px;padding:20px}
-.card .emoji{font-size:34px}.card h3{margin:12px 0 8px}.card p{color:var(--muted);font-size:14px;line-height:1.5}
-.search{width:100%;padding:15px;border-radius:12px;border:1px solid #2a355c;background:#11182c;color:white;font-size:15px}
-footer{text-align:center;color:var(--muted);padding:45px 20px;margin-top:40px;border-top:1px solid #202947}
-.notice{background:#18213c;border-left:3px solid var(--accent);padding:14px;border-radius:8px;color:#cdd5f5;margin-top:20px;font-size:14px}
-@media(max-width:700px){.grid{grid-template-columns:1fr}nav a{display:none}.hero{padding-top:55px}}
+:root{
+  --bg:#0b1020;
+  --card:#151c33;
+  --text:#f5f7ff;
+  --muted:#aab2cc;
+  --accent:#6c7cff;
+}
+
+*{box-sizing:border-box}
+
+body{
+  margin:0;
+  font-family:Arial,sans-serif;
+  background:var(--bg);
+  color:var(--text);
+}
+
+header{
+  position:sticky;
+  top:0;
+  background:#0b1020ee;
+  backdrop-filter:blur(10px);
+  border-bottom:1px solid #202947;
+  z-index:5;
+}
+
+nav{
+  max-width:1050px;
+  margin:auto;
+  padding:16px 20px;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+}
+
+.logo{
+  font-size:22px;
+  font-weight:800;
+}
+
+.logo span{color:var(--accent)}
+
+nav a{
+  color:var(--muted);
+  text-decoration:none;
+  margin-left:16px;
+  font-size:14px;
+}
+
+.hero{
+  max-width:1050px;
+  margin:auto;
+  padding:75px 20px 45px;
+  text-align:center;
+}
+
+.badge{
+  display:inline-block;
+  background:#202947;
+  color:#cbd2ff;
+  padding:8px 14px;
+  border-radius:99px;
+  font-size:13px;
+}
+
+h1{
+  font-size:clamp(38px,8vw,68px);
+  margin:18px 0 12px;
+}
+
+.hero p{
+  max-width:620px;
+  margin:auto;
+  color:var(--muted);
+  line-height:1.6;
+}
+
+.btn{
+  display:inline-block;
+  margin-top:25px;
+  background:var(--accent);
+  color:white;
+  padding:13px 20px;
+  border-radius:10px;
+  text-decoration:none;
+  font-weight:bold;
+}
+
+main{
+  max-width:1050px;
+  margin:auto;
+  padding:20px;
+}
+
+.section-title{
+  font-size:26px;
+  margin:35px 0 18px;
+}
+
+.grid{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:16px;
+}
+
+.card{
+  background:var(--card);
+  border:1px solid #242e50;
+  border-radius:16px;
+  padding:20px;
+}
+
+.card h3{
+  margin:12px 0 8px;
+}
+
+.card p{
+  color:var(--muted);
+  font-size:14px;
+  line-height:1.5;
+}
+
+.card a{
+  color:#aeb8ff;
+  text-decoration:none;
+  font-weight:bold;
+}
+
+.search{
+  width:100%;
+  padding:15px;
+  border-radius:12px;
+  border:1px solid #2a355c;
+  background:#11182c;
+  color:white;
+  font-size:15px;
+}
+
+#news-status{
+  color:var(--muted);
+  margin-bottom:15px;
+  font-size:14px;
+}
+
+footer{
+  text-align:center;
+  color:var(--muted);
+  padding:45px 20px;
+  margin-top:40px;
+  border-top:1px solid #202947;
+}
+
+.notice{
+  background:#18213c;
+  border-left:3px solid var(--accent);
+  padding:14px;
+  border-radius:8px;
+  color:#cdd5f5;
+  margin-top:20px;
+  font-size:14px;
+}
+
+@media(max-width:700px){
+  .grid{grid-template-columns:1fr}
+  nav a{display:none}
+  .hero{padding-top:55px}
+}
 </style>
 </head>
+
 <body>
-<header><nav><div class="logo">Game<span>Pulse</span> 🎮</div><div><a href="#news">News</a><a href="#games">Games</a><a href="#guides">Guides</a></div></nav></header>
+
+<header>
+<nav>
+  <div class="logo">Game<span>Pulse</span> 🎮</div>
+  <div>
+    <a href="#news">News</a>
+    <a href="#games">Games</a>
+    <a href="#guides">Guides</a>
+  </div>
+</nav>
+</header>
 
 <section class="hero">
-<div class="badge">YOUR DAILY GAMING HUB</div>
-<h1>Play. Discover. Stay Updated.</h1>
-<p>Gaming news, game information, guides, reviews and official download sources in one place.</p>
-<a class="btn" href="#news">Explore Now</a>
+  <div class="badge">YOUR DAILY GAMING HUB</div>
+  <h1>Play. Discover. Stay Updated.</h1>
+  <p>Gaming news, game information, guides, reviews and official download sources in one place.</p>
+  <a class="btn" href="#news">Explore Now</a>
 </section>
 
 <main>
-<input class="search" id="search" placeholder="Search games, guides or news..." oninput="filterCards()">
 
-<h2 class="section-title" id="news">🔥 Latest Gaming</h2>
-<div class="grid cards">
-<div class="card"><div class="emoji">📰</div><h3>Gaming News</h3><p>Follow major updates, releases and announcements.</p></div>
-<div class="card"><div class="emoji">🎮</div><h3>Game Reviews</h3><p>Quick information to help you decide what to play.</p></div>
-<div class="card"><div class="emoji">⚡</div><h3>Updates & Events</h3><p>Keep track of patches, events and new content.</p></div>
+<input
+  class="search"
+  id="search"
+  placeholder="Search games, guides or news..."
+  oninput="filterCards()"
+>
+
+<h2 class="section-title" id="news">🔥 Latest Gaming News</h2>
+
+<div id="news-status">
+  Loading latest gaming news...
 </div>
+
+<div class="grid cards" id="news-container">
+</div>
+
 
 <h2 class="section-title" id="games">📱 Games & Apps</h2>
+
 <div class="grid cards">
-<div class="card"><div class="emoji">🏆</div><h3>Top Games</h3><p>Curated information about popular mobile and PC games.</p></div>
-<div class="card"><div class="emoji">🔗</div><h3>Official Downloads</h3><p>Links should point to official stores or developer websites.</p></div>
-<div class="card"><div class="emoji">📊</div><h3>Game Specs</h3><p>Check platform requirements and useful game details.</p></div>
+  <div class="card">
+    <h3>🏆 Top Games</h3>
+    <p>Curated information about popular mobile and PC games.</p>
+  </div>
+
+  <div class="card">
+    <h3>🔗 Official Downloads</h3>
+    <p>Links should point to official stores or developer websites.</p>
+  </div>
+
+  <div class="card">
+    <h3>📊 Game Specs</h3>
+    <p>Check platform requirements and useful game details.</p>
+  </div>
 </div>
+
 
 <h2 class="section-title" id="guides">📚 Guides</h2>
+
 <div class="grid cards">
-<div class="card"><div class="emoji">💡</div><h3>Beginner Guides</h3><p>Simple tips and explanations for new players.</p></div>
-<div class="card"><div class="emoji">🛠️</div><h3>How-To Guides</h3><p>Helpful walkthroughs for legitimate game features and settings.</p></div>
-<div class="card"><div class="emoji">🎯</div><h3>Recommendations</h3><p>Find games based on genre, device and play style.</p></div>
+  <div class="card">
+    <h3>💡 Beginner Guides</h3>
+    <p>Simple tips and explanations for new players.</p>
+  </div>
+
+  <div class="card">
+    <h3>🛠️ How-To Guides</h3>
+    <p>Helpful walkthroughs for legitimate game features and settings.</p>
+  </div>
+
+  <div class="card">
+    <h3>🎯 Recommendations</h3>
+    <p>Find games based on genre, device and play style.</p>
+  </div>
 </div>
 
-<div class="notice">GamePulse shares information and links to legitimate, official sources. Always download apps and games from trusted sources.</div>
+<div class="notice">
+GamePulse shares information and links to legitimate, official sources.
+Always download apps and games from trusted sources.
+</div>
+
 </main>
 
 <footer>© 2026 GamePulse. Built for gamers.</footer>
+
+
 <script>
 function filterCards(){
- const q=document.getElementById('search').value.toLowerCase();
- document.querySelectorAll('.card').forEach(c=>{
-  c.style.display=c.innerText.toLowerCase().includes(q)?'block':'none';
- });
+  const q=document.getElementById('search').value.toLowerCase();
+
+  document.querySelectorAll('.card').forEach(c=>{
+    c.style.display=
+      c.innerText.toLowerCase().includes(q)
+      ?'block'
+      :'none';
+  });
 }
+
+
+async function loadNews(){
+
+  const container=document.getElementById('news-container');
+  const status=document.getElementById('news-status');
+
+  try{
+
+    const response=await fetch(
+      'news.json?t='+Date.now()
+    );
+
+    if(!response.ok){
+      throw new Error('News not found');
+    }
+
+    const data=await response.json();
+
+    container.innerHTML='';
+
+    const articles=data.articles || [];
+
+    if(articles.length===0){
+      status.textContent='No news available right now.';
+      return;
+    }
+
+    status.textContent=
+      'Latest automatic updates from the gaming world';
+
+    articles.slice(0,30).forEach(article=>{
+
+      const card=document.createElement('div');
+      card.className='card';
+
+      const title=document.createElement('h3');
+      title.textContent=article.title || 'Gaming News';
+
+      const source=document.createElement('p');
+      source.textContent=
+        'Source: '+(article.source || 'Gaming News');
+
+      const link=document.createElement('a');
+      link.href=article.link;
+      link.target='_blank';
+      link.rel='noopener noreferrer';
+      link.textContent='Read Full News →';
+
+      card.appendChild(title);
+      card.appendChild(source);
+      card.appendChild(link);
+
+      container.appendChild(card);
+
+    });
+
+  }catch(error){
+
+    status.textContent=
+      'Latest news is being updated. Please check again shortly.';
+
+    console.error(error);
+
+  }
+
+}
+
+
+loadNews();
+
+/* वेबसाइट खुली रहने पर हर 5 मिनट में नई न्यूज चेक करेगा */
+setInterval(loadNews,300000);
+
 </script>
+
 </body>
 </html>
