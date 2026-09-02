@@ -1,0 +1,75 @@
+name: Update Gaming News
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Fetch latest gaming news
+        run: |
+          python - <<'PY'
+          import feedparser
+          import json
+          from datetime import datetime, timezone
+
+          feeds = [
+              "https://news.google.com/rss/search?q=gaming+news&hl=en-IN&gl=IN&ceid=IN:en",
+              "https://news.google.com/rss/search?q=video+game+industry+news&hl=en-US&gl=US&ceid=US:en",
+              "https://news.google.com/rss/search?q=gaming+controversy&hl=en-US&gl=US&ceid=US:en",
+              "https://news.google.com/rss/search?q=esports+news&hl=en-IN&gl=IN&ceid=IN:en"
+          ]
+
+          articles = []
+          seen = set()
+
+          for url in feeds:
+              feed = feedparser.parse(url)
+
+              for entry in feed.entries:
+                  link = entry.get("link", "")
+
+                  if link and link not in seen:
+                      seen.add(link)
+
+                      articles.append({
+                          "title": entry.get("title", ""),
+                          "link": link,
+                          "published": entry.get("published", ""),
+                          "source": entry.get("source", {}).get("title", "Gaming News")
+                      })
+
+          data = {
+              "lastUpdated": datetime.now(timezone.utc).isoformat(),
+              "articles": articles[:50]
+          }
+
+          with open("news.json", "w", encoding="utf-8") as f:
+              json.dump(data, f, ensure_ascii=False, indent=2)
+          PY
+
+      - name: Commit and push news
+        run: |
+          git config --global user.name "Gaming News Bot"
+          git config --global user.email "actions@github.com"
+          git add news.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto update gaming news"
+          git push
