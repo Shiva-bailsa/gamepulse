@@ -1,1 +1,20 @@
-"articles": "BGMI New Update Released", "source": "GamePulse", "link": "https://www.battlegroundsmobileindia.com⁠�" }, { "title": "Minecraft Gets New Features", "source": "GamePulse", "link": "https://www.minecraft.net⁠�" }, { "title": "Free Fire MAX New Event Live", "source": "GamePulse", "link": "https://ff.garena.com⁠�" } ] }
+{
+  "lastUpdated": "2026-09-02T18:20:00Z",
+  "articles": [
+    {
+      "title": "BGMI Latest Update",
+      "source": "GamePulse",
+      "link": "https://www.battlegroundsmobileindia.com/"
+    },
+    {
+      "title": "Minecraft Latest News",
+      "source": "Minecraft",
+      "link": "https://www.minecraft.net/"
+    },
+    {
+      "title": "Free Fire MAX Latest Updates",
+      "source": "Garena",
+      "link": "https://ff.garena.com/"
+    }
+  ]
+}
