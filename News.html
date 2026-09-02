@@ -1,1 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Latest Gaming News | GamePulse</title>
 
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #111;
+      color: white;
+    }
+
+    header {
+      text-align: center;
+      padding: 25px;
+      background: #1b1b1b;
+    }
+
+    #status {
+      text-align: center;
+      color: #aaa;
+      margin: 20px;
+    }
+
+    #news-container {
+      max-width: 900px;
+      margin: auto;
+      padding: 20px;
+    }
+
+    .news-card {
+      background: #1e1e1e;
+      margin-bottom: 15px;
+      padding: 20px;
+      border-radius: 10px;
+    }
+
+    .news-card h2 {
+      margin-top: 0;
+      font-size: 20px;
+    }
+
+    .news-card a {
+      color: #4da6ff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .source {
+      color: #aaa;
+      font-size: 14px;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <h1>🎮 Latest Gaming News</h1>
+    <p>Indian & International Gaming Updates</p>
+  </header>
+
+  <div id="status">Loading latest news...</div>
+
+  <main id="news-container"></main>
+
+  <script>
+    async function loadNews() {
+      try {
+        const response = await fetch(
+          'news.json?t=' + new Date().getTime()
+        );
+
+        if (!response.ok) {
+          throw new Error('News file not found');
+        }
+
+        const data = await response.json();
+
+        const container = document.getElementById('news-container');
+        const status = document.getElementById('status');
+
+        status.textContent =
+          'Last updated: ' +
+          new Date(data.lastUpdated).toLocaleString();
+
+        container.innerHTML = '';
+
+        data.articles.forEach(article => {
+          const card = document.createElement('article');
+          card.className = 'news-card';
+
+          card.innerHTML = `
+            <h2>${article.title}</h2>
+            <div class="source">
+              Source: ${article.source || 'Gaming News'}
+            </div>
+            <a href="${article.link}" target="_blank">
+              Read Full News →
+            </a>
+          `;
+
+          container.appendChild(card);
+        });
+
+      } catch (error) {
+        document.getElementById('status').textContent =
+          'News is loading. Please refresh after a moment.';
+      }
+    }
+
+    loadNews();
+
+    // हर 5 मिनट में पेज पर न्यूज दोबारा चेक करेगा
+    setInterval(loadNews, 300000);
+  </script>
+
+</body>
+</html>
