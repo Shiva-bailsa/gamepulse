@@ -1,47 +1,29 @@
 {
-  "lastUpdated": "2026-09-04T17:09:11.279463+00:00",
+  "lastUpdated": "2026-09-04T18:11:18.840434+00:00",
   "articles": [
     {
+      "title": "White House Launches Deportation Video Games To Promote Trump's Agenda - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUG1iQmxCUmdSQnhBNFhZcEtnYTlpOF9qTWtBRk1rTXR6YzNqSUluY0RGX3ZqV0xlSHdpMDFFQ0IxWEl0VzBuT0gzMGlhaVJ6cUJ4b3E4V3FBWHFzUFF3bzVwT1RGQXl0OVBrOWYyM29iNTEzY0ZYUngxbWVHTlNOXzA0YTR0ajRMZVBnTlgySkQxc285Tm9rYmJDSXY4YVRxVzB5TTEtekY5VkRZOUHSAbYBQVVfeXFMTkQ2aFBOcnlhRXZhbDh3MDNlNU5adWF1ejBlbERWcFFfTVZFcmZvNFgzcUNVeVUtVFNvYXF5OGduVGpXai11WFNVaGpQQjhHNWx1VVg2dGFXbnBZNjNtV2pyMnNZNXpmN2NKc2pSMGdnSms1SlNpakdOTFF6WlE2NHhXQ1lDMmRMdmVnZGQ2ZWQ4VVR0NlQ1VXJvT0FwM2xQX0NOdDFPTHVQajNxSTZCVjRlSTROS1E?oc=5",
+      "published": "Thu, 03 Sep 2026 22:42:57 GMT",
+      "source": "NDTV"
+    },
+    {
       "title": "Upcoming Changes to XBOX Cloud Gaming - XBOX Wire",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03Vzl4Rmc2c3NIek1mMnE1V1JZdklpWlhEREY4RjZQMk9nRThMbkNodEI3VUNCdDdvRXllWG50R3VkN05JeDBhYmMzSTl1dFVJNGNlbVkwcnlHSUM5OXk0elprM3FzRy0zaUFEMzc2enhLWTjSAXhBVV95cUxOUGRveVBSVVBpaDdGUDZackpmT1MzYXVmSDExZlh3MTJDNXlSZDJHcWxpN0p6MlNuZFlJaWVpN0xoWXFrVy1TVEJvWUFjLUx6WFFUTXVfUHVOUDNiMWlrVGQ3NGhWUTNQZWJjcU5KLUpWb1U4SVBjNUM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03Vzl4Rmc2c3NIek1mMnE1V1JZdklpWlhEREY4RjZQMk9nRThMbkNodEI3VUNCdDdvRXllWG50R3VkN05JeDBhYmMzSTl1dFVJNGNlbVkwcnlHSUM5OXk0elprM3FzRy0zaUFEMzc2enhLWTg?oc=5",
       "published": "Thu, 03 Sep 2026 16:59:45 GMT",
       "source": "XBOX Wire"
     },
     {
-      "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers - BBC",
+      "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers - bbc.com",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XTXFBVUlqVVVqTVhYZkc4dXFvNDdGMlZvQkcyNjhFMTRpc1d5d2FyNV9qck8tMnVvU1l5M25VSTI4YnowYUJzeVlCQ0hIaGpreTFBT3hNS2pGZw?oc=5",
       "published": "Fri, 04 Sep 2026 11:48:24 GMT",
-      "source": "BBC"
+      "source": "bbc.com"
     },
     {
       "title": "Microsoft to impose time limits on Xbox cloud gaming subscribers as costs continue to climb - CNBC",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KNXpZOERfQmJsdnNOeGhfdC1HMy1pVGVkNG1KSEdPeVRTTHA0VGVBdXg5X0hoU2hCa2p2YUc3QlVsZU03NGJVQ0xzQWtJOTZUbFZudE9CZnJsVEh5VkhuZlZaMHJtQ0xNck50NnZvM0R3ODdCdnFlZVVOWklHa1HSAYQBQVVfeXFMUHJIMjJJaGo5c25zcDg1VDVFZVBteTh0UGp2a2xnR0hLYkdkQUZxZXZNZFdzRFVNM1VDeG5nRFkxQnJ3eWtnLUFvWktIVXRjclhZQnRSSldNQXA4c1VjLThDdVd4R0RSY1B0ZUU0OWtfRWZMTzctTHpjcDFqcG5Ra0ZwRGwx?oc=5",
       "published": "Thu, 03 Sep 2026 17:00:01 GMT",
       "source": "CNBC"
-    },
-    {
-      "title": "Xbox Announces Monthly Hour Limits To Cloud Gaming Are Coming In November - Game Informer",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUFRmOE5WbG9XdTJxaERQZXRuWmNUMzZ1WFp3N0RJR3NMbFozd216bWhObTNDZVhNNXo1Tk9mRERsQ2FfYXJGbk45TjBVS2dzQlNXWGJUU2xYQkJyODliRWptT3JzNGVKNEljU3FtdEpNYTl2aU1lTmRRMFFDa0dDRE1CaktLaHpnZWhqSlV1MWhCODFuZWs1NDc1YUdYM1BHTW1MMWdnZDB1Um5MRGc?oc=5",
-      "published": "Thu, 03 Sep 2026 22:00:00 GMT",
-      "source": "Game Informer"
-    },
-    {
-      "title": "Microsoft opens up Xbox Cloud Gaming with new pay-as-you-go option - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORG9yMG5GVUdHNlRLQ18tWnBzT2l0ZWgxdVpsVmU0V2tDa1Q2Q1BiVzU5cllhX3diREpzMTlSaWc2VUZVaTZCLURYVk5YQTBkZk0xME12WXZUNU1iQWRyTE9aZmRKRDZyekgzUTNQRDNmNjFIcXVETnVpcU93R1lORlBuNDluX1BKWmhKZ0pB?oc=5",
-      "published": "Thu, 03 Sep 2026 17:00:00 GMT",
-      "source": "The Verge"
-    },
-    {
-      "title": "Xbox Is Officially Putting Time Limits On Cloud Gaming For Game Pass Members - Pure Xbox",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObm0xSGJpYVFNTmZ3VEdSR0U1V2xmRWd3cTRvM2hXcXg2Unl1WW1UMEVCXzlNcWw1alF3UHZuNTVGc1VBUEJlYThnU0Z4bVItbzhLcjVIQjg0QjBINmJRY0FPVUR6U2M4N1drNE1aekFueWdzckJzQmZIRWJILTJJcTlhbl9YUWtDTWZRaDQ0WnNJbmVFMkZlN0tUV294UmIzNGlzbkpwb0tBWGpHYXE0YWJBMGg?oc=5",
-      "published": "Thu, 03 Sep 2026 18:12:00 GMT",
-      "source": "Pure Xbox"
-    },
-    {
-      "title": "White House Launches Deportation Video Games To Promote Trump's Agenda - ndtv.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUG1iQmxCUmdSQnhBNFhZcEtnYTlpOF9qTWtBRk1rTXR6YzNqSUluY0RGX3ZqV0xlSHdpMDFFQ0IxWEl0VzBuT0gzMGlhaVJ6cUJ4b3E4V3FBWHFzUFF3bzVwT1RGQXl0OVBrOWYyM29iNTEzY0ZYUngxbWVHTlNOXzA0YTR0ajRMZVBnTlgySkQxc285Tm9rYmJDSXY4YVRxVzB5TTEtekY5VkRZOUHSAbYBQVVfeXFMTkQ2aFBOcnlhRXZhbDh3MDNlNU5adWF1ejBlbERWcFFfTVZFcmZvNFgzcUNVeVUtVFNvYXF5OGduVGpXai11WFNVaGpQQjhHNWx1VVg2dGFXbnBZNjNtV2pyMnNZNXpmN2NKc2pSMGdnSms1SlNpakdOTFF6WlE2NHhXQ1lDMmRMdmVnZGQ2ZWQ4VVR0NlQ1VXJvT0FwM2xQX0NOdDFPTHVQajNxSTZCVjRlSTROS1E?oc=5",
-      "published": "Thu, 03 Sep 2026 22:42:57 GMT",
-      "source": "ndtv.com"
     },
     {
       "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra - OpenAI",
@@ -56,6 +38,24 @@
       "source": "Al Jazeera"
     },
     {
+      "title": "PS3 owner tries to play Metal Gear Solid 4, finds PlayStation deleted his digital games - Sportskeeda Tech",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGJ3dlJSblBoajAyMlY5RmVtZzFfcERlYUxHNUk0dndXeDJjY2ZVblJiaGFkLUM1NDluV0NNRXdyWXp2UGxXU0JpQVdNWmlfYmNtc2lJR0RwZEk0MmFZbDg5WENKeV9jbWRBbXdHS19IMFNLN214NmhKZnlKY0tCZHdNdjlMMzRPaWtrUGgyMEVaN1cybWJieXI0Z203YU01RHFJLVMyUnZROS13VDZvZVVpajFoZ2hWNXRLVDVNU3d6WWM?oc=5",
+      "published": "Fri, 04 Sep 2026 17:09:55 GMT",
+      "source": "Sportskeeda Tech"
+    },
+    {
+      "title": "Xbox Announces Monthly Hour Limits To Cloud Gaming Are Coming In November - Game Informer",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUFRmOE5WbG9XdTJxaERQZXRuWmNUMzZ1WFp3N0RJR3NMbFozd216bWhObTNDZVhNNXo1Tk9mRERsQ2FfYXJGbk45TjBVS2dzQlNXWGJUU2xYQkJyODliRWptT3JzNGVKNEljU3FtdEpNYTl2aU1lTmRRMFFDa0dDRE1CaktLaHpnZWhqSlV1MWhCODFuZWs1NDc1YUdYM1BHTW1MMWdnZDB1Um5MRGc?oc=5",
+      "published": "Thu, 03 Sep 2026 22:00:00 GMT",
+      "source": "Game Informer"
+    },
+    {
+      "title": "Xbox Is Officially Putting Time Limits On Cloud Gaming For Game Pass Members - Pure Xbox",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObm0xSGJpYVFNTmZ3VEdSR0U1V2xmRWd3cTRvM2hXcXg2Unl1WW1UMEVCXzlNcWw1alF3UHZuNTVGc1VBUEJlYThnU0Z4bVItbzhLcjVIQjg0QjBINmJRY0FPVUR6U2M4N1drNE1aekFueWdzckJzQmZIRWJILTJJcTlhbl9YUWtDTWZRaDQ0WnNJbmVFMkZlN0tUV294UmIzNGlzbkpwb0tBWGpHYXE0YWJBMGg?oc=5",
+      "published": "Thu, 03 Sep 2026 18:12:00 GMT",
+      "source": "Pure Xbox"
+    },
+    {
       "title": "Microsoft's Cloud Gaming Push Just Picked Up a New Limit - TradingView",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGhBb09oakZ0RHBPR040Z0luYkN0Nl9maDdCU20tZTJ6V2w4ZmItRlRkZDB0SkNGS1VlUXpFT1hxVllTUFRlZ2ZVLVpSWnV3bWtNUTRlNWQwU1g4YjVmeDZFNG00RTNXWXVjWU9SQTFFTXg1dVJDY0dOTUVhWDJvWWpWdlJWZU1ibXBfMngwM3Zodi1FR2YtS3c4Q1pEb3ctOGdyNnM0d2pQX2E0cE9hZ2xkMF9vLVU?oc=5",
       "published": "Fri, 04 Sep 2026 12:11:28 GMT",
@@ -68,6 +68,12 @@
       "source": "bbc.co.uk"
     },
     {
+      "title": "Primero Games Acquires Win Systems Gaming Division, Expanding International Reach - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOXNEQy1Jd19Rd3FDVDNZc2U0aEFJMExDUDlfOUI1RzViekxNYVRvbnhocWZCMHNON1REWTdZWm5XbWlXckRxN08tTzVpUURDd29oYngzM19tcnVJZTVVTTdrdUFZY3NrS011OVpWSFJJbzIwZG9Qd1VPU0xkS00tY1kyZndGX2ZUSE1GWWVLWGR3Vm41M0tEcWE0LUNXaFdSdzN1cWJ5cEFka0lpSGNxUGtBclNWbnBUTy1QMElMTUstV2E2YVZJcUQ2dW9ma1FrdVE?oc=5",
+      "published": "Fri, 04 Sep 2026 17:26:00 GMT",
+      "source": "PR Newswire"
+    },
+    {
       "title": "Bombay HC quashes ED freeze of ₹100 crore in Coda Payments gaming probe - Storyboard18",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWkZ4dUdGZVVhTU50SGNSZGtsOEhuVmNWSGVtSE0tbVotSHBSSUFyOUdMclRlTXBBYnNDYTJ2R0FBYjhoYkN5MTFGeVlDR3M1RllpSmp0NEo3b3ZLTFA2UXFHdWg1TkFwX2dBcE0xSFBqQzdkU1dJRGJCZVZETEhVV2p4R0p2V2s2czJfdXYwamJ3TGo3VWp2TW1QRDFlR3hDTjlmbnJyZFExemY4TlR1My1QaUhFQdIBtgFBVV95cUxQWkZ4dUdGZVVhTU50SGNSZGtsOEhuVmNWSGVtSE0tbVotSHBSSUFyOUdMclRlTXBBYnNDYTJ2R0FBYjhoYkN5MTFGeVlDR3M1RllpSmp0NEo3b3ZLTFA2UXFHdWg1TkFwX2dBcE0xSFBqQzdkU1dJRGJCZVZETEhVV2p4R0p2V2s2czJfdXYwamJ3TGo3VWp2TW1QRDFlR3hDTjlmbnJyZFExemY4TlR1My1QaUhFQQ?oc=5",
       "published": "Fri, 04 Sep 2026 06:46:49 GMT",
@@ -78,6 +84,12 @@
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaE1SRG40WmFGMzFoRGtxU2s3anhTNVJhdW5aY2VLYUdZaGJRUE5iRndwZGtlYzAzNW1odzFFZktkclZZQUhzcnV1LU1zRWg3dUpWSmJOSU5kU2d4TE5yYzVya1AtVkdqNVpRRy1Xc3MyN3BmRUlBN2pSNEQwY05TWXprSFAwc0V6dGVLOWswTkNXZXAxNlR3anNTa1VLYlZfOEF6VkhMZWI4bG1yckVzWXFzZ1ByQkgzUVFkZ3JGcVdtR3ZnU3FVS05Bd2hOZ0NCQ0pJdWRfWDAtZw?oc=5",
       "published": "Fri, 04 Sep 2026 06:06:32 GMT",
       "source": "EQS News"
+    },
+    {
+      "title": "Xbox Announces Cloud Gaming Caps Along With September Lineup. Is Game Pass Still Worth It? - PCMag",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN2gydXotWFYyNFVWeEFDaEQtZzIxOV9OejgtaHRxT0hSLW9kaUd5dWl6b3huNWpDd2tDd21xblJVZXlYbE4xTUZ5aGVETTRxQmpvSnVCdnc0MDB0VnN6YWc1cmVJTS02X0hPb2RmTlBpSEV5OHdGaFZObGhocEhjMGlHckN6XzUyVllQOXFRbG80ZWtxa21EM1lzaG05TEU?oc=5",
+      "published": "Fri, 04 Sep 2026 17:18:05 GMT",
+      "source": "PCMag"
     },
     {
       "title": "‘Lego Harry Potter’ Collection Coming to Nintendo Switch 2 (Gaming News Roundup) - Variety",
@@ -98,22 +110,22 @@
       "source": "markets.businessinsider.com"
     },
     {
-      "title": "Abu Dhabi Gaming to host Connect on 24 September - وكالة وام",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLWlFeHg2aWQxb2ttOFVwbDB6SDFMeG1ORWVGVGFMRlFmUTRyLU1rVWVaYkRHLW4yb2ZoMFVHRk1KZXprcVJQV2huVC15bG5ZbE1JcG5BZkJkX3pZN3Izek9WV2xvRWFWSDNYT1dqZHlLVmN4c2pETVlxT04zUE9ueHMwWQ?oc=5",
-      "published": "Fri, 04 Sep 2026 12:22:43 GMT",
-      "source": "وكالة وام"
-    },
-    {
       "title": "Nvidia’s DLSS 5 looks incredible. I’m just not sure whose vision I’m seeing - PCWorld",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdThIaExTRktnOWpEM0hENVI2WmxzZ2dqNzFCam5ibHR6aEhjTXF6YWxfZHdZLUR2QV9CU1FvWGNzcUhlanMxcVoza0ZRbjdENERxZDdFSThCS29ncVJ1RFM1Rngtdnk4MHFjVEd1UWxxUkRPZDJQcXp0cnRVSi1nUjYxLUJIN0c1dW9TRTE2ZjBqcWdIMGltSndUREdIYl9XNU5QaTQ1ekNYUkU2M2dwSjU2Q2hXQzNuZGxrNm9RR2VQWlFsSXJmZ2JRSVQ0b0s5cGQ4?oc=5",
       "published": "Fri, 04 Sep 2026 12:00:57 GMT",
       "source": "PCWorld"
     },
     {
-      "title": "Hacksaw Gaming Expands Brazil Reach with Brazino777 Partnership - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb21xYVVsVjRHblUzMTNMcDgtY243VEh4aThvZ0tyc0plamhGcUZDN0U0OVdNOHNOcEk2cTdnM2l1em5Qdlpub2ZiaFRiS2Y5c1JSemZ5VXFNYnNkeHc4WXZzMF9hRlZrOFo3am9CNzd3WVd4WFhmMEN5ZWRidHlTS1RGMEUzM2pCS1hxbGdvMEtQYTY2Um1oRzJreml0eW0zMjR4dFVWYk1KUWV4QjhRc1pOZFVQeGIwekVnb01UTnllRlhsMmFvYw?oc=5",
-      "published": "Fri, 04 Sep 2026 08:30:00 GMT",
-      "source": "TradingView"
+      "title": "Abu Dhabi Gaming to host Connect on 24 September - وكالة وام",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLWlFeHg2aWQxb2ttOFVwbDB6SDFMeG1ORWVGVGFMRlFmUTRyLU1rVWVaYkRHLW4yb2ZoMFVHRk1KZXprcVJQV2huVC15bG5ZbE1JcG5BZkJkX3pZN3Izek9WV2xvRWFWSDNYT1dqZHlLVmN4c2pETVlxT04zUE9ueHMwWQ?oc=5",
+      "published": "Fri, 04 Sep 2026 12:22:43 GMT",
+      "source": "وكالة وام"
+    },
+    {
+      "title": "Turkish gamers voiced GTA VI gameplay - they want to achieve official localization - ixbt.games",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ2lSY3JLNlBQOVQ5NklnaG1yUm9fYVZyYWNCanpTWlBtTjRtZ05zMnQydEhwQmFvcTV4WmhyQU43WTFFb1RWaC1SQ0JfckRmYWxJRm0zclVaQ3FWcXhqMWdsbnczajE1bVZkSllWMkZkS3p3djYxOWRLcV9EekJTZG12S1ZzTklpTGg1YTNFQTF5NFRrSnd2OHVvRmwzZHlNS2djWi1wWmZ4Z3Y0eXBSR0k4WkFGU0dFZXU4T2EyWDd5Wmd2c0JVY2lCcVpGemvSAdQBQVVfeXFMTjZPN1pYSlVyNmtucDBqU0h0M0dZaUFBM1JXMzFyUlA2Z2JfRUlpWldnTHpCMm5jVHhPZHZrcGZmRFFsU1JTdENiZUg5UURTWUd5VFJnN0RWMUlpV1ZRdEpDdHBXcXlPUWxON0l0S1JRMk5yNmdRMDN6blR4RVVlT1NTV3AxODNVOTBFWkJ2LTk4WlprS2FxQUVKWmFNaTZOcG9zbEdMMDNsQVdrbkk2bFkwNkJiUWxkOWdBM3RRU1ExdGJUU2xNVUd5OXBJNWdHeTBWV3g?oc=5",
+      "published": "Fri, 04 Sep 2026 17:24:41 GMT",
+      "source": "ixbt.games"
     },
     {
       "title": "Latest Fanatical bundle is offering 19 Steam Deck-friendly games worth $308 for just $51 - PC Guide",
@@ -122,28 +134,28 @@
       "source": "PC Guide"
     },
     {
-      "title": "Next Week on XBOX: New Games for September 7 to 11 - XBOX Wire",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRDV6VUd6aTBDYk9ZOUFmZnk5bVNqX3MzbWJsYWwzWW1vdTdNQkxmRExsUHhfWWJsWGQ5UXU3SVFTS3RmU1FEcjZYZnRLTVZyVEQ1MG43b194UXh1NlJaVUVGc3JsOEVwTkxzdkVBamt5MEljenBFdnBFeDdXbVNMNWlJQV9sdFltT1pGRDdKMzBzWTTSAZgBQVVfeXFMTi13T3hTbmlUOTBxOFBvZEpNUnRmZ0l6ak1MQ1NVQTFXNFlkNFRuRmlNNkdjM21pcTZVUi1HZTV2eVVMeC1LZDh0M1JWclk2Smlod096U09rYVNBdDNmbzdreVBUdDZiVDFTOVNIUlFlNkZsSGVDeVlrbGtjcHlpYXk4d2RDSTNNNUFLLURIV3FULU1OeEw0QXA?oc=5",
-      "published": "Fri, 04 Sep 2026 14:12:42 GMT",
-      "source": "XBOX Wire"
-    },
-    {
       "title": "‘Build The Wall’: White House arcade games face backlash - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTHFIbjhhNFI2MkhrNnNtRHZIVXlFVUhpWkdsbWFabmpjdVkwQ3dMc3pMNHN4SEo3cjVZTUZ5WVNhMGRTUVNsM1NnUUNEZnB1cjdIb25admpLX2NEa2ZSVlFpaWs2bjZQZndJdVQ1ZGp0dDZiQXpyRWwtXzhKSHp5blhIZFc1TnRuN1JaZVhZWG82aUh3cG04aFZCV2pDU2k5QThxZnp30gGrAUFVX3lxTE1EQjhnUXhfeTNNTk84cDd5bzlaZV95ZllFQ01HeUNpanJkanhtLTk3a2RMaXpIcnJNRFRnZFRtZTlPYVZYQUhBdjlfSDIwUzBfdGRsZmR5TFFKTDliT2hjaUR6Tkp0TTEwSVlxNjd4RVU5NWZnSGt5b0p6MFVhMVFpUklSWm1oS3I4WU9GVkdZeVVfQ2I4RkVHeWpLdnNMQmhXYXNCdDhsWVVvQQ?oc=5",
       "published": "Fri, 04 Sep 2026 10:19:41 GMT",
       "source": "Al Jazeera"
     },
     {
-      "title": "Board member of Fractal Gaming Group resigns at own request - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb0JKMkFTZHo5TFhnZXc5RkRqVWJ2akQ2SWpZd2tRVmZhaXEzMVltam9fVF9lUHJ1S1V0Ty1vU2NoUlBGcHdCWFprRTNkdlR6VUJXNWtudVhERkpQcWEzaklBUHhWVno2R3JERjZaSUh6bTUyZ2hmUzFjTmxxUk9zbkpJRElwWUpIVUV2QVRFSkNXanV1dFhfZGtDWDd1WnVodjNtVnNsZVhhRG5QeTdVX3V1aFVKQm1BVDZmNS1OdFpwT0E?oc=5",
-      "published": "Fri, 04 Sep 2026 09:00:00 GMT",
-      "source": "TradingView"
+      "title": "Games: Boosting Attention or Causing Distraction in Kids? - Mirage News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTHM0N0FMM1RNWEw1VUxxR2xPSXg1TGdNWFBpcktwc0ZqTWoxa2VMTDgtcHpVUUs5V0Z1N1NxazRXWkpQVGlQZU1BRlR2YzlRQk01ZVZsU1dlWS0wOVNmeGRtNTlsZDB1UjJ1cWdQeWEwRTBlX0EtYzZaX3hUUV9DS01ycXZjZFdZNEJz?oc=5",
+      "published": "Fri, 04 Sep 2026 17:36:00 GMT",
+      "source": "Mirage News"
     },
     {
-      "title": "MGM Resorts and BetMGM commit $320K to responsible gaming initiatives - yogonet.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN3RNZ3VUbTVUWFZMTTFIaF9ydzdxeDBNaXdVNGtKbGlfQ2dRTlFwdXhzRFo4RW14bUxHUkU3NjR6Q0twYkJSMmU0cGd5Nkk4Ni1XU0szLUdyVDRDdnJCTlhSVzBCa0pqSV9kVjhBeF9KNGRTZXpZMlhodkFpaHFZaWVpQS1tRUV4Y0l0WDNpTElHRmpJMUtPbHVkVG4ybHZEbml0Y0tHSnBiNVM1dkJsdEZnX2x0dnFrSV9uaTZWakotaUhQd3BDMA?oc=5",
-      "published": "Fri, 04 Sep 2026 11:03:59 GMT",
-      "source": "yogonet.com"
+      "title": "Crime Action Game Samson to be Released on Consoles - Developers Reveal Release Date - ixbt.games",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMlJrVDNMRWN5aXJwb3MyOFhHRVc4N0hZUGVLR0N4Nld4UnJQTl95SWJ6SE85d1plTUVXdjdCd1RLWmpiRUhoaVdpVmNWY0w5cHRKSWl2OE5GeW5HUnY2MjFsa253OE1yYW9IRGpkb0k3TWZzY3dkMVRwRl9iNEZ1Y2s4RUl3ZjVudUJuaWJyUVZDR0lHS0xaYWlLT3lXYzBDb2Z0VnYzWE9mMk44WkpzMVF0WVVvODJtVU55SlZua9IBxAFBVV95cUxNbFFQdTlzSDBydDRmV2w1T2xOX2JLNXZ6NVFKZXluTW1ZWDlGZHBxX0hnajRuYlhZd2JLLWlqY043YUNoUnJfVVB2S1JSemhjb0tGS2JFOGtTSlQ3NU9lZmliLVM1VzdENkFzMi04RTM3ZE1zMjNFTnJ3bjhwQjQ0UG8zZ0tOUkY2eklyaVExZDAtc0JaeElkUVh2eUwtY2kwcHZpdzVtWGt4WnR0NnoyMjI2eGpzNFVISFp5eVVNQXJHTFFW?oc=5",
+      "published": "Fri, 04 Sep 2026 17:16:50 GMT",
+      "source": "ixbt.games"
+    },
+    {
+      "title": "Microsoft opens up Xbox Cloud Gaming with new pay-as-you-go option - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORG9yMG5GVUdHNlRLQ18tWnBzT2l0ZWgxdVpsVmU0V2tDa1Q2Q1BiVzU5cllhX3diREpzMTlSaWc2VUZVaTZCLURYVk5YQTBkZk0xME12WXZUNU1iQWRyTE9aZmRKRDZyekgzUTNQRDNmNjFIcXVETnVpcU93R1lORlBuNDluX1BKWmhKZ0pB?oc=5",
+      "published": "Thu, 03 Sep 2026 17:00:00 GMT",
+      "source": "The Verge"
     },
     {
       "title": "Nvidia just turned your gaming PC into a local AI supercomputer - Sportskeeda Tech",
@@ -152,22 +164,22 @@
       "source": "Sportskeeda Tech"
     },
     {
-      "title": "Modder Adds Third-Person View to Cyberpunk 2077 with Reworked Animations and Camera Switching - ixbt.games",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTkIxTmN5eTd5MElrZkFyWEFJQTRTWVZvTzNXdmFrWHZVa05ILWt2amR6R25JdGN3N09ZZVhIeFE5V3Rhdy1kNlZSd1pFNDNjTVR5Ylg5ZGdScEFwUDZpQjkxT1F2WnlMemRxNTJ4RFNLSkkzeUFXMVBxempCZnVlQ0JrT2ZyZzNvX3hWQTJ6UFNjMlRMNVBBaHhEZjREREhiNzJ6NFZKWkp0NEVsQlhvX09SZi1LLThhZDdnZndWQWo4TlBGWU1Kc3hMNkswdjNQbWppb1Z4dmotby1fYzNqNHRFWHBjQzRIYkRn0gHwAUFVX3lxTE9sSnZWbVI5ZDRwQTVPX0VQeFV1dHdXdVo3eUVraXZFcUNQZHgzLWs5a1ZpbV9OcG55SlhNcWh5WjVXTHhrcDNqV2JWRWtFUVJDM1NFSWZfNGVxLUZxZHZBR0NnT3I3MUUxelJ3VzQyOUdPUThzM1pfNE9ya0lBUjE2ZW14QlBObVNHRVJqMllzbi1uUk94TGk4SE5xaF9HZzdLYlpwNG1VcXVTTDB2aWxENTJ1NGJwWERKWk85RFlRVlhoeDRhblFSUmdpODFQbXF3OXdqUXUxQ1lxMkJPV3hSRVdZMVM0X3hKaWZGd09wWQ?oc=5",
-      "published": "Fri, 04 Sep 2026 16:46:01 GMT",
-      "source": "ixbt.games"
+      "title": "MGM Resorts and BetMGM commit $320K to responsible gaming initiatives - yogonet.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN3RNZ3VUbTVUWFZMTTFIaF9ydzdxeDBNaXdVNGtKbGlfQ2dRTlFwdXhzRFo4RW14bUxHUkU3NjR6Q0twYkJSMmU0cGd5Nkk4Ni1XU0szLUdyVDRDdnJCTlhSVzBCa0pqSV9kVjhBeF9KNGRTZXpZMlhodkFpaHFZaWVpQS1tRUV4Y0l0WDNpTElHRmpJMUtPbHVkVG4ybHZEbml0Y0tHSnBiNVM1dkJsdEZnX2x0dnFrSV9uaTZWakotaUhQd3BDMA?oc=5",
+      "published": "Fri, 04 Sep 2026 11:03:59 GMT",
+      "source": "yogonet.com"
     },
     {
-      "title": "\"Habibi, Come To Iran\": Tehran Mocks US With 'Minesweeper' Game Over Hormuz - ndtv.com",
+      "title": "\"Habibi, Come To Iran\": Tehran Mocks US With 'Minesweeper' Game Over Hormuz - NDTV",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcFpBeFRzb1N5cm5hRW5nYXJnRG9Bb2QtbThxOVJQT3pOdkFPSDA5aVBvcFNUVGdhLURMQnNibEFoUkxVVFlMaWxMeW1VZ0ppWVhPWkprY3ZSQ2dZX2MzZjNVcHlGSEt5RllSWk04UDcxSWxlNkhvbG5NamgzbDFiMWo3Z3IwY29JdS03Z0dTQWE4c2JQY0xJYTBkOEs3b0kzNk85RGFUR0xtZWlCa0w40gG3AUFVX3lxTE5jN3lLSDBubmVaUEwycWpDaERmUTZkSVdqVm1uUWNvdXl4dDJlQTBONFNXVWZZSlE2dmZETU1XUms5VFFnNHJfanhjS2cwWVRoa3pPX0xiMXNIOHNEWXNJSFBLX09wLVZEY2NMXzN4ZkdFT2wwLU5QSUlham9Fa1NTbktLajU1b3VyMFBZVEp0MW5GY2FFY3FXZFFSR1VyYTNOWVNZY2lWdmpMSXFqNmk3Nnd2UDNETQ?oc=5",
       "published": "Thu, 03 Sep 2026 14:40:37 GMT",
-      "source": "ndtv.com"
+      "source": "NDTV"
     },
     {
-      "title": "Exodus: Going Hands-on With This Wild Interactive Space Opera - XBOX Wire",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoajZ5MmszNW1TckdDQ01POVZyNi1tSUJIck9OUTE1MzVIRGVTczVGVmtOaThNY3diOWhSNEtHbktleWY2YVdwUEE0V1hmOEo0eVcyb1J0QUtRVEpDM2xMM0pEUXQ0RDY5blEwcG80a1HSAXZBVV95cUxQcFNhakF6dHVXQU5tNzJOUUNKZ0FSeDVuY2RNZWdodWtJemxPZTVvNVNnVDEtTEJGX3Vkd1dXallYalkwRkI1VDhVd1ZKM3lvNzNqZ3FpR1Q0WUZONzRoS0ZDdkVNVkJZcEhfdUpfWVc1TFAtTWdR?oc=5",
-      "published": "Fri, 04 Sep 2026 13:34:53 GMT",
-      "source": "XBOX Wire"
+      "title": "EA Sports FC 27 Developers Will Not Radically Rework Gameplay at Launch - The Game Will Be Updated Gradually - ixbt.games",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNlVibVBHOWhuUzF6c1dwNWU4bVVEc1FmMVczdUlORU5YcU9tSlhNX3ZnT1ZEOVhOcXZWaTVPTk55dFRYVXQtdVVEWVJJSFZ6bkxRVFFpblB6aHUyNVJMQ05Pb3dKLW1fT2x0eHZIZU5oc1NvbHpxZUF5czN2S09WUVdlczVDTWp6aHdUZ2dqVk16S05PTVpJZXdUWmgyb3FuVk9lSXE0S3N2X1oxMGR0Z01DV2w1ZmtRZmRaNGR4ajRqWXY5eTVYWDZBZWh3NGNRWDBteEwweTlHTklNNWpZRG930gHnAUFVX3lxTE1hc1lKRjBVbHp4Y0M5NTl1QUtrV3d5TFJwa3JBaWtQcmxvbUtXQmhnTzR5U0JzM2ttSGZwcUNCazZrV1FmY2Y2TkY0S1NkaExrU0E4RkJrei1HS0w2dEVIdE1RNzBPbmtNcWJtODZSbzFVbFdLNXljQmxNQ1czQ0gzWGR0VVd0V1NtYl9YdFF1VUtSQUxXdE0tSGlRNkJIZnhGR2FOZEhXM1FnNG0tTU91OFFkdWVMQVpHbUNMTWJ1ZkttMWNUTTJQVUEwYUpwMEg0UVg3dmFOeFI4RTNBaHk0X0MtR2ZIOA?oc=5",
+      "published": "Fri, 04 Sep 2026 16:58:03 GMT",
+      "source": "ixbt.games"
     },
     {
       "title": "Everything Konami Showed At Its 2026 Press Start Showcase - Game Informer",
@@ -176,10 +188,16 @@
       "source": "Game Informer"
     },
     {
-      "title": "We played Exodus, and it looks like Mass Effect fans will be eating well next year - GAMINGbible",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lNXpKQXZpd0RqLVloeURoTkthQnFQX0k5RmdsZUlUVENESnVhcUxaMmxtWE1PV1NRZW1udFFJcVNFdWl4QV9NYnE2WG5ibUpsVUR2TTRyTEdyelNubF95cTdXRkJoM2NvUlNMalh3SmdaR3UzeFlPb09RTXU?oc=5",
-      "published": "Fri, 04 Sep 2026 13:00:00 GMT",
-      "source": "GAMINGbible"
+      "title": "Exodus: Going Hands-on With This Wild Interactive Space Opera - XBOX Wire",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoajZ5MmszNW1TckdDQ01POVZyNi1tSUJIck9OUTE1MzVIRGVTczVGVmtOaThNY3diOWhSNEtHbktleWY2YVdwUEE0V1hmOEo0eVcyb1J0QUtRVEpDM2xMM0pEUXQ0RDY5blEwcG80a1HSAXZBVV95cUxQcFNhakF6dHVXQU5tNzJOUUNKZ0FSeDVuY2RNZWdodWtJemxPZTVvNVNnVDEtTEJGX3Vkd1dXallYalkwRkI1VDhVd1ZKM3lvNzNqZ3FpR1Q0WUZONzRoS0ZDdkVNVkJZcEhfdUpfWVc1TFAtTWdR?oc=5",
+      "published": "Fri, 04 Sep 2026 13:34:53 GMT",
+      "source": "XBOX Wire"
+    },
+    {
+      "title": "'That criticism is justified': Gamescom apologizes for its callous response to developer hardware thefts - PC Gamer",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbU8wVWpxMW5CaXo0Q1QxUXM3QkViR2lNRkoxSmRUV1dwbDhGTlJOa0VsYW5mR0ZIeF9KVXNXOWkzdFBqWjlneUpLS19PRFRMcGd0ME9FaFd3YXBQa1ZOR05DelRnVk5ocUhtUXcxWUVUTWVvTk04WTBsVDZfZERLdEdzZzhtLVZ3dWVVMmh1YXpWZGlmZUF6ZGVKamQzNUZjVHJwamlHN1RVYUFQZk9HUUphdmFjcEs3N0NWSEJoSVVpTWdmVjhPMEpoM19fQzdQV2UyZG5ZVVQxbFc4a1hqc0kyWFFkTFhBN2tLTjVPallkeEU?oc=5",
+      "published": "Fri, 04 Sep 2026 14:27:54 GMT",
+      "source": "PC Gamer"
     },
     {
       "title": "George RR Martin confirms great news for Game Of Thrones fans for 2027 - empireonline.com",
@@ -194,28 +212,10 @@
       "source": "AP News"
     },
     {
-      "title": "'That criticism is justified': Gamescom apologizes for its callous response to developer hardware thefts - PC Gamer",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbU8wVWpxMW5CaXo0Q1QxUXM3QkViR2lNRkoxSmRUV1dwbDhGTlJOa0VsYW5mR0ZIeF9KVXNXOWkzdFBqWjlneUpLS19PRFRMcGd0ME9FaFd3YXBQa1ZOR05DelRnVk5ocUhtUXcxWUVUTWVvTk04WTBsVDZfZERLdEdzZzhtLVZ3dWVVMmh1YXpWZGlmZUF6ZGVKamQzNUZjVHJwamlHN1RVYUFQZk9HUUphdmFjcEs3N0NWSEJoSVVpTWdmVjhPMEpoM19fQzdQV2UyZG5ZVVQxbFc4a1hqc0kyWFFkTFhBN2tLTjVPallkeEU?oc=5",
-      "published": "Fri, 04 Sep 2026 14:27:54 GMT",
-      "source": "PC Gamer"
-    },
-    {
-      "title": "Epic Games confirms huge free overhaul to Fortnite and Rocket League in 2027 - GAMINGbible",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZE1DbmJVelB5Wm41ZVdOY2M0dXVJbUVJQUlEaGFjME94eW90blo0SlJhY0JjWWxhMkU5RTVlOFF3QXFJWTE5SkFZNzhMUDlmMmJGOVROa3lSVmNuWXVsNjVFd0cxdnc4V05Ea0dCVmFkZVhSY0hmWnpoWnlRdlZWYVE5aTVUM1FIZGp2XzN3VUozZVVGVGVqX25qSG94UUVCNFBOUUhlVWlyRFJKQllv?oc=5",
-      "published": "Fri, 04 Sep 2026 15:00:00 GMT",
+      "title": "We played Exodus, and it looks like Mass Effect fans will be eating well next year - GAMINGbible",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lNXpKQXZpd0RqLVloeURoTkthQnFQX0k5RmdsZUlUVENESnVhcUxaMmxtWE1PV1NRZW1udFFJcVNFdWl4QV9NYnE2WG5ibUpsVUR2TTRyTEdyelNubF95cTdXRkJoM2NvUlNMalh3SmdaR3UzeFlPb09RTXU?oc=5",
+      "published": "Fri, 04 Sep 2026 13:00:00 GMT",
       "source": "GAMINGbible"
-    },
-    {
-      "title": "10+ New Xbox Games Are Out Today, Plus Another Game Pass Release (September 4) - Pure Xbox",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc0E0UWtuSHA3NTI2NDd4dGhuQzd1aXgzWTM5VVljLXN5WmhJV3ZtTHNNdWlqeG5KWEhSeHhGX2FMNXlnWDlFMzNFSFVERGZJZ2xaT0dCbEVJWklsWmVndUd5cGRGMFJMX0gxZnF2RjdLY3hDOWpUUjdVNjN0TDQxR2w2eHRaZ3FOc2lmQXhKMzVDcXVha3ZGb05jMG1hTktQZ2Z3bWhmYUw4ZUtwUUxxMlZzNnVKWDg?oc=5",
-      "published": "Fri, 04 Sep 2026 10:00:00 GMT",
-      "source": "Pure Xbox"
-    },
-    {
-      "title": "Epic Games CEO expects hardware to be affected \"for the next three years\" in midst of game industry \"crash\" - PC Guide",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORkZiamRZQ0YxSFVjM1hsUXJSdk5tRXVWR3NSNTJ2ZVF0QUdsenBiWERzcHVRY09UUnlVVVlNV2R6QXpNWV9zM3V6RjJmblNTZXVTaHRZUmQ3SjJ4ZlhhQmVINnFsVmJUTUFydm9lVkNmaV9TUDZ4ekZBc0FGZFN6ekxUdnJzQ2dja3RfUUQxcm9YdDY1cUZHUXM2T2kzMjV0TWJmMkVkUEhZallkVUlqV3otVjRqUEhCS05KcXlfSWdoa3Nlb3p6d0JtWVVLQQ?oc=5",
-      "published": "Fri, 04 Sep 2026 15:02:08 GMT",
-      "source": "PC Guide"
     },
     {
       "title": "The Blood of Dawnwalker review: The vampire RPG we’ve waited decades for - Soundsphere magazine",
@@ -224,9 +224,21 @@
       "source": "Soundsphere magazine"
     },
     {
-      "title": "Persona 4 Revival feels like another safe remake from Atlus, but it's not blowing me away yet - GAMINGbible",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRjVQUXV5dVpOdlhPenY3MHQ3NjVvX3pITFFDck9rbzc4ZkV2UV8xWkRKTnA4UGNUbU9qQ3B1M0V5LS1kOHd6VTh0blNHREMwenJUUmVaRENzMHpIdWNZZlpSR1k5aDBadjloVTQ3dlJHWUEyU2VQMlhYak1EclNkYnB5UU9CTEFvbGIyalItaGdSczhNeFNN?oc=5",
-      "published": "Fri, 04 Sep 2026 08:06:19 GMT",
+      "title": "Epic Games CEO expects hardware to be affected \"for the next three years\" in midst of game industry \"crash\" - PC Guide",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORkZiamRZQ0YxSFVjM1hsUXJSdk5tRXVWR3NSNTJ2ZVF0QUdsenBiWERzcHVRY09UUnlVVVlNV2R6QXpNWV9zM3V6RjJmblNTZXVTaHRZUmQ3SjJ4ZlhhQmVINnFsVmJUTUFydm9lVkNmaV9TUDZ4ekZBc0FGZFN6ekxUdnJzQ2dja3RfUUQxcm9YdDY1cUZHUXM2T2kzMjV0TWJmMkVkUEhZallkVUlqV3otVjRqUEhCS05KcXlfSWdoa3Nlb3p6d0JtWVVLQQ?oc=5",
+      "published": "Fri, 04 Sep 2026 15:02:08 GMT",
+      "source": "PC Guide"
+    },
+    {
+      "title": "GTA V ported to Nintendo Switch, gameplay shown - ixbt.games",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQTNJbFJOekRoMjJvQVljTE1UdG5FelpZWVVGNDdGcFpTa0VaVzlBcnJ4eVNURlNvSUpXVWVnZFRNRUNWYVp5NFN6RXBKSTEwSWtaRy05VzNBMkxNUUw2R2ZZc2NFWG4zRmQxRjNsbVNBRVJ2U3J2RDZKaG1oeC1BYVFJUHZMaktXVncyeldPcVJsS0h2Rk9VSnZ1VlRubEp50gGmAUFVX3lxTFBLRHdURGltRGItY2dzeFhvZlRnZ3ZsU24xT1VJYndDc20zUmtjTXhBaWlxSTA0anFqWjVVUlFoN21WLVdVejZlbEs2d3pvY01XNnVzNkJtTjJrR0Q2QzBWVUhEdFR6TUFkNi1Ba3FnYVpUSlJjWGV2R18zcHNGSS1RQXRtZ3h1U3lRVkxLV3VOY2NqTTVncFFjUlFNbk56UVlCbDAzT3c?oc=5",
+      "published": "Fri, 04 Sep 2026 17:49:58 GMT",
+      "source": "ixbt.games"
+    },
+    {
+      "title": "Epic Games confirms huge free overhaul to Fortnite and Rocket League in 2027 - GAMINGbible",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZE1DbmJVelB5Wm41ZVdOY2M0dXVJbUVJQUlEaGFjME94eW90blo0SlJhY0JjWWxhMkU5RTVlOFF3QXFJWTE5SkFZNzhMUDlmMmJGOVROa3lSVmNuWXVsNjVFd0cxdnc4V05Ea0dCVmFkZVhSY0hmWnpoWnlRdlZWYVE5aTVUM1FIZGp2XzN3VUozZVVGVGVqX25qSG94UUVCNFBOUUhlVWlyRFJKQllv?oc=5",
+      "published": "Fri, 04 Sep 2026 15:00:00 GMT",
       "source": "GAMINGbible"
     },
     {
@@ -236,16 +248,22 @@
       "source": "Simulation Daily"
     },
     {
-      "title": "Xbox charges more for game streaming and adds limits - admits it's not popular - metro.co.uk",
+      "title": "Xbox charges more for game streaming and adds limits - admits it's not popular - Metro.co.uk",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT0F2MVBJM3RqNWN6N1RyOVAxVVNoV3BnZTFXMDE4bFZaaWxfX2hpczFZTi1UUjc1bDhUWUNpc2g1bE9JbUhGT2ZSaGs0dkhsbFc5TVRvWFhMVUVTVTlPSm1kWHV1M1F3ZE94dEl0amY0aEpaNTJlRVhNcHI0VUNRZGdSYmRfSHhlU0kzdlpwcGIwM2RVX3ZrTXVvNE5mTWs00gGmAUFVX3lxTE5mYW1kbjZIcUZCWXpOT2ZXT3NhTnVnSXByY19BMGhLYS1JU21FUDdYRjFSTU1iTDFjX2Z2NUdlSGszR3NheE1rdVpuY0hJZDh5ZjFsd2x2di1zMk1wRndDT1J1a3E1UXlkMVVfN3FLaS1iSHA4LTJJTlJjeWd4SHVabkZNd0FiYUZCYXBCN3R1WUxabTZGX0NVNEVJX3I4Q0FDbzBGUGc?oc=5",
       "published": "Fri, 04 Sep 2026 10:42:00 GMT",
-      "source": "metro.co.uk"
+      "source": "Metro.co.uk"
     },
     {
-      "title": "Acer Unveil Their Latest Range of Gaming Monitors at IFA 2026 - TFTCentral",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZmZrbXRENm5BY3pMd21NU2g0eGw2TFVhcDJqMXo2cXUtcHhTaXducW9lOFNIZnJEMlhTVWlVQTFoUlJNbXA3WnZjMFBKV19iUmNqa2U1dlFkcUtaQllzanBOYkJiSG5YaXd2UEhSR2lsbkgxd0tiYk95ZnY4RzR0NWhZbkV2dGtCMm1HV3UyRkxRUk1MaFE?oc=5",
-      "published": "Fri, 04 Sep 2026 13:47:26 GMT",
-      "source": "TFTCentral"
+      "title": "10+ New Xbox Games Are Out Today, Plus Another Game Pass Release (September 4) - Pure Xbox",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc0E0UWtuSHA3NTI2NDd4dGhuQzd1aXgzWTM5VVljLXN5WmhJV3ZtTHNNdWlqeG5KWEhSeHhGX2FMNXlnWDlFMzNFSFVERGZJZ2xaT0dCbEVJWklsWmVndUd5cGRGMFJMX0gxZnF2RjdLY3hDOWpUUjdVNjN0TDQxR2w2eHRaZ3FOc2lmQXhKMzVDcXVha3ZGb05jMG1hTktQZ2Z3bWhmYUw4ZUtwUUxxMlZzNnVKWDg?oc=5",
+      "published": "Fri, 04 Sep 2026 10:00:00 GMT",
+      "source": "Pure Xbox"
+    },
+    {
+      "title": "Onimusha: Way Of The Sword’s Easy Mode Expertly Teaches Parrying To Those Who Hate Parrying - Game Informer",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORld0SDhBeUJadXlUc19yREctX3FreTQ5UENBWF81RXlYcTBhXzhiaWJUX1d6VVgxNTlnT3dJWGRMNURLaEFSdXI2cjRpZ0VlV2xzZ1E3VWVKbFBNbzg3a280aWZYemVELWJ2RWNZMlpaa3gtbGU1SlpPbkR1M2RIbXVNSjNBaEg2Y1FudGRtRVVyd1ZZZmhkdTBwZlFmMU1mN3BCeTFmSXEwNWd3YUUyX3pzVGlJcHZrLVg2SlhaQnpCUQ?oc=5",
+      "published": "Fri, 04 Sep 2026 16:49:00 GMT",
+      "source": "Game Informer"
     },
     {
       "title": "Free Play Days – EA Sports College Football 27, The Survivalists, The Lonesome Guild, and Under The Waves - XBOX Wire",
@@ -254,28 +272,22 @@
       "source": "XBOX Wire"
     },
     {
-      "title": "All 1025 Pokémon feature in ambitious new 22-minute anniversary rap - NME",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY0EwQUxUejdLZU94YTlwSkowcVRnQ0VCTk4xRDdnMEp0OEZOWjdqMldQNlM5UllYeHVfcy12clhxWV9WRzFxYWRyMUNERl90TXdEUzVLbmRjV2hBNjA0SUtkcDdNUS1MZXRCa1RKSVI2NHNSV2ZoQWNoR1dGeEt4Tlo4R25UNzZhQVRoOEk5UzFsUUVSUk5Z?oc=5",
-      "published": "Fri, 04 Sep 2026 10:26:06 GMT",
-      "source": "NME"
-    },
-    {
       "title": "Microsoft brings Xbox Cloud Gaming to TCL Smart TVs ahead of streaming caps - Neowin",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVXd3aHY2bmVkU25LLW1UY2FpRE5nOW95NXhBWEhWTlNEVUdxMHVlNzIyN010OG05dUpmSU1CNXdqcTkycS00UjVJVkdXNVhLRlZmc0tsZTJZSmVYdHVnemdJQ3hBdERrNTVSOHlMRnBxRmp1ZlJ3NTRSa3NpZ2hmTHJ5ZlFKRlpTX1FueGpzcy1lUkU4VjAyN0F2RkJ6Y1RvT3dpMXVlQQ?oc=5",
       "published": "Thu, 03 Sep 2026 16:46:03 GMT",
       "source": "Neowin"
     },
     {
-      "title": "Trump's White House releases deportation video games - CNA",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQajFTcUVBTGxvMzY5OVJNWlNjOXBFYzNGTlY4NTBIdEZHTzBrSFNVNDBZOXRBdkptNmVZOXRfQnZYVlRFejNRU2lZazlvNHY2MGhyWnNqSWh6akxNSHdhWG4wa19UZzhVeDltWUNaWUZUbUs0WVdyVHVjTkhUcUhHeWFIbmxKaS1WYmxfXy1JWm5teEtn?oc=5",
-      "published": "Fri, 04 Sep 2026 01:48:00 GMT",
-      "source": "CNA"
+      "title": "All 1025 Pokémon feature in ambitious new 22-minute anniversary rap - NME",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY0EwQUxUejdLZU94YTlwSkowcVRnQ0VCTk4xRDdnMEp0OEZOWjdqMldQNlM5UllYeHVfcy12clhxWV9WRzFxYWRyMUNERl90TXdEUzVLbmRjV2hBNjA0SUtkcDdNUS1MZXRCa1RKSVI2NHNSV2ZoQWNoR1dGeEt4Tlo4R25UNzZhQVRoOEk5UzFsUUVSUk5Z?oc=5",
+      "published": "Fri, 04 Sep 2026 10:26:06 GMT",
+      "source": "NME"
     },
     {
-      "title": "The Last Of Us director ‘isn’t done’ with the series as he teases new game - metro.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZnd4ZUZyZUdpbVFsc0FUbTY2ZVFta3FLZFQ0LTVlWXZoR1V5ZlBlQlpfUUMwT0VCQ2d0cFN3VEtvamNZZU1hQlJkOW53TjlTay03X0ZxQVBWSHMyWmRhX0R2UHZzRThwb1VGdWE2X25RcUQ2dHMyUEo4MnU5Sm5UN1g0MjIzMVBENW5Dbl8yWHVrTFN60gGaAUFVX3lxTE42WGhxcDZkekh1TGlDWVZZTkJ1eVY4SW5DX3pSdXR2YkNLWXVZb3A2bHZ6WE91ZVZLZXJoWng4ME1hM3V6WjZmZEgxVy0weUdTZ29HengxMlNkc1BTZVo0ZmhWQnloTDNYMUwycHcyaERBUVdzLUljTzRvMW1zQmYwVFRMU2RlRFpWTnFMTjZoZHlGUGlRRWJLWVE?oc=5",
-      "published": "Fri, 04 Sep 2026 09:30:00 GMT",
-      "source": "metro.co.uk"
+      "title": "An Obscure Setting Keeps Ruining Elden Ring: Nightreign For Me - Kotaku",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUDJuTy1Zc3J4TkdOOFV2YW5BYU1sTU1LRTFHTDUwd1VGLU5sYk5oWWxJR0NvbXdHbi1RR054TEcydGF5R2I2QnhfX3k4eXQta1Y4WXVQRUR4VEhVazBUYm1yM3pJYjV1WWFYNDVZUzV5ZTdHVlI4TmNObVNNTUkwWU4wVi1pNWFkNUwtSmxJU1E?oc=5",
+      "published": "Thu, 03 Sep 2026 23:00:15 GMT",
+      "source": "Kotaku"
     },
     {
       "title": "White House website unveils pro-Trump arcade-style games - ARN News Centre",
@@ -284,22 +296,10 @@
       "source": "ARN News Centre"
     },
     {
-      "title": "'1666: Amsterdam' Sets Early Access Release Date (Gaming Roundup) - Variety",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0pwNGFVNnEwWGlVcVVFeERKY3F5czNzWEhkSU5hdE1fYnBYdGJCUDlnUjYwSG5jMlMwUU1hQjNLRHlPc2tsTlNsdnpTYndKZmxSNzVOZkJvZVRtYXlaN3lPYkxUR3JTMFk2U0tGM0EzSUIwcHFzTVB2d2toSzZRSDEzZ2xkNTRob1lQbUJGNA?oc=5",
-      "published": "Thu, 13 Aug 2026 07:00:00 GMT",
-      "source": "Variety"
-    },
-    {
-      "title": "Alone With You is the latest free sci-fi adventure game on Epic Games Store - DLCompare.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaU81bUxqc09sRDB4TXRTQzlsQTYtNVlrUWtuQV9wWlNpWm9iTWpJNHRUTFNMMkJ0aWhVNHF2Um1RWk4wcVo2MmNkaDJqa3pMdWgwdGV6cUhMV1dicl9Ba3lRaUhIX0FBZ3Z6Y1JOZWEyU1FIT0dIbUhvTldsOTFMSWw3UUwtRmpNanJncU54SWhjMU9hakZiVzVhWE95cE54WFBRMWlWX3gwazhTdGZJUElXcUNaOExRVTZJ?oc=5",
-      "published": "Fri, 04 Sep 2026 08:00:00 GMT",
-      "source": "DLCompare.com"
-    },
-    {
-      "title": "N.S. and N.B. gaming Crown corps fined for lax money laundering reports - CBC",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS1lleUQ3YTFfdU9tcU5XNUg0ZnZBQW1OZlFzMFlBMGxaLTY0cnoteTh0dEZJRUF2amdPMENaZ3MyNDl1WFpnVnNxeFFYQm9GNnQ2cU5KMGJ4Y24xNzhPNTZ5NExaeW9rYXFnRlh4bzdvWnZtRjBOdXVFZnFDS0FuajJycklpYU5UQmt3SE92YTZuSE0zZFJyUUpzem51MTZOdjhBTjliX1RjRUE2Y3ow?oc=5",
-      "published": "Thu, 03 Sep 2026 21:50:13 GMT",
-      "source": "CBC"
+      "title": "The Last Of Us director ‘isn’t done’ with the series as he teases new game - Metro.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZnd4ZUZyZUdpbVFsc0FUbTY2ZVFta3FLZFQ0LTVlWXZoR1V5ZlBlQlpfUUMwT0VCQ2d0cFN3VEtvamNZZU1hQlJkOW53TjlTay03X0ZxQVBWSHMyWmRhX0R2UHZzRThwb1VGdWE2X25RcUQ2dHMyUEo4MnU5Sm5UN1g0MjIzMVBENW5Dbl8yWHVrTFN60gGaAUFVX3lxTE42WGhxcDZkekh1TGlDWVZZTkJ1eVY4SW5DX3pSdXR2YkNLWXVZb3A2bHZ6WE91ZVZLZXJoWng4ME1hM3V6WjZmZEgxVy0weUdTZ29HengxMlNkc1BTZVo0ZmhWQnloTDNYMUwycHcyaERBUVdzLUljTzRvMW1zQmYwVFRMU2RlRFpWTnFMTjZoZHlGUGlRRWJLWVE?oc=5",
+      "published": "Fri, 04 Sep 2026 09:30:00 GMT",
+      "source": "Metro.co.uk"
     }
   ]
 }
