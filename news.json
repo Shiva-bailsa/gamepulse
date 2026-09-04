@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T23:08:36.045449+00:00",
+  "lastUpdated": "2026-09-04T00:14:41.107969+00:00",
   "articles": [
     {
       "title": "Everything We Saw At PlayStation’s September State Of Play - Kotaku",
@@ -8,16 +8,10 @@
       "source": "Kotaku"
     },
     {
-      "title": "Gamescom 2026 live hub: The latest news and previews from the biggest gaming event of the year - PC Gamer",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQXy1EVTMzVGYwMDNNeGJ0aGowTnBpNllqM2RLZ1VrbzZYZlR1NERtWW1wLThseHdqTWFVS1Vpb0w5LWNaWGptWEpfYnhCbHhvQ3llcWU1T1Z4LWl6ZmxWM3MxNFlxU0JJU1RJV2xwYUNrV3EtUmNHYllwRkktXzJxNVZYb3J1TFUzSWxDejVCd0Rrd1JGRDNvYVVTUUZoVkFqY1Bmdmw3OTlIa0x4cmJPSkllZWg3QVBnSWFkTVhMdDdJbTBRMFdRWFc3b3B4QThIN2QxUzZteDZud043?oc=5",
-      "published": "Sat, 29 Aug 2026 13:37:18 GMT",
+      "title": "'Can I cry?': Stalker 2 devs say its 2.0 update's engine overhaul was a nightmare—but worth the effort - PC Gamer",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRmlYNk1yYUhlLURBNkgxdEVzX0hheDYxQVVTTUdDeGtnMGtqVjlEdVdiV2VoU1VsVVRfRnRIV0IwRjdUYl9Sb0tyT2drT3Vwa2tHV3JEeV81QlE5cmhVMllfTkhiM0tqbDlPRmlVZGc5ZzdOQlFycnBjYTk0VldIMkhycFpJWWJTZUhLc0JYOEJ4cHdvR205LU1pRHBrNDlXNUZvMXlCYzFBTUM0WjV1UzRGMDRuRWxHQ1d4ek1UN0xKdm0wbEx0T2ZzUHY?oc=5",
+      "published": "Wed, 02 Sep 2026 21:03:29 GMT",
       "source": "PC Gamer"
-    },
-    {
-      "title": "White House Launches Deportation Video Games To Promote Trump's Agenda - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUG1iQmxCUmdSQnhBNFhZcEtnYTlpOF9qTWtBRk1rTXR6YzNqSUluY0RGX3ZqV0xlSHdpMDFFQ0IxWEl0VzBuT0gzMGlhaVJ6cUJ4b3E4V3FBWHFzUFF3bzVwT1RGQXl0OVBrOWYyM29iNTEzY0ZYUngxbWVHTlNOXzA0YTR0ajRMZVBnTlgySkQxc285Tm9rYmJDSXY4YVRxVzB5TTEtekY5VkRZOUE?oc=5",
-      "published": "Thu, 03 Sep 2026 22:42:57 GMT",
-      "source": "NDTV"
     },
     {
       "title": "Upcoming Changes to XBOX Cloud Gaming - XBOX Wire",
@@ -26,10 +20,16 @@
       "source": "XBOX Wire"
     },
     {
-      "title": "Microsoft to impose time limits on Xbox cloud gaming subscribers as costs continue to climb - cnbc.com",
+      "title": "Microsoft to impose time limits on Xbox cloud gaming subscribers as costs continue to climb - CNBC",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KNXpZOERfQmJsdnNOeGhfdC1HMy1pVGVkNG1KSEdPeVRTTHA0VGVBdXg5X0hoU2hCa2p2YUc3QlVsZU03NGJVQ0xzQWtJOTZUbFZudE9CZnJsVEh5VkhuZlZaMHJtQ0xNck50NnZvM0R3ODdCdnFlZVVOWklHa1HSAYQBQVVfeXFMUHJIMjJJaGo5c25zcDg1VDVFZVBteTh0UGp2a2xnR0hLYkdkQUZxZXZNZFdzRFVNM1VDeG5nRFkxQnJ3eWtnLUFvWktIVXRjclhZQnRSSldNQXA4c1VjLThDdVd4R0RSY1B0ZUU0OWtfRWZMTzctTHpjcDFqcG5Ra0ZwRGwx?oc=5",
       "published": "Thu, 03 Sep 2026 17:00:01 GMT",
-      "source": "cnbc.com"
+      "source": "CNBC"
+    },
+    {
+      "title": "White House Launches Deportation Video Games To Promote Trump's Agenda - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUG1iQmxCUmdSQnhBNFhZcEtnYTlpOF9qTWtBRk1rTXR6YzNqSUluY0RGX3ZqV0xlSHdpMDFFQ0IxWEl0VzBuT0gzMGlhaVJ6cUJ4b3E4V3FBWHFzUFF3bzVwT1RGQXl0OVBrOWYyM29iNTEzY0ZYUngxbWVHTlNOXzA0YTR0ajRMZVBnTlgySkQxc285Tm9rYmJDSXY4YVRxVzB5TTEtekY5VkRZOUHSAbYBQVVfeXFMTkQ2aFBOcnlhRXZhbDh3MDNlNU5adWF1ejBlbERWcFFfTVZFcmZvNFgzcUNVeVUtVFNvYXF5OGduVGpXai11WFNVaGpQQjhHNWx1VVg2dGFXbnBZNjNtV2pyMnNZNXpmN2NKc2pSMGdnSms1SlNpakdOTFF6WlE2NHhXQ1lDMmRMdmVnZGQ2ZWQ4VVR0NlQ1VXJvT0FwM2xQX0NOdDFPTHVQajNxSTZCVjRlSTROS1E?oc=5",
+      "published": "Thu, 03 Sep 2026 22:42:57 GMT",
+      "source": "NDTV"
     },
     {
       "title": "15+ New Xbox Games Are Out Today, Including A Day One Game Pass Release (September 3) - Pure Xbox",
@@ -38,10 +38,10 @@
       "source": "Pure Xbox"
     },
     {
-      "title": "4 Upcoming PS Plus Extra, Premium Games for 2026 Announced - pushsquare.com",
+      "title": "4 Upcoming PS Plus Extra, Premium Games for 2026 Announced - Push Square",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQnF6ZHg0UVZtN2ptM3lVclhlT0xHNHJDMXg4eVBTSHVJNGNNOXQ2UHBBQk81cmNOcHJsUzhVM00tajkyNWNUVnFxYUdMNWdaTkg1ZFlnNVIxU3BBYmlaS0Z3cEUzenM0Q0Z1YWM5WlhGcUJoenh1VnJPRmdHV3YxUTBSWGZYNGxLVU4wNWpNeFlkYnR0cWhBeWQzZUpWQQ?oc=5",
       "published": "Thu, 03 Sep 2026 13:30:00 GMT",
-      "source": "pushsquare.com"
+      "source": "Push Square"
     },
     {
       "title": "The Blood of Dawnwalker PC Performance Review - Gizbot",
@@ -56,16 +56,40 @@
       "source": "GamesRadar+"
     },
     {
+      "title": "Build the Wall, Rio Run: White House launches 5 video games promoting Trump agenda - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZjRIQmJqbWUxUU9temhMWmpFRWJ3R1BxT3RnVkp3aDBaTi1IaVVOZl9YUVRscnAxUmxub2NwSUd0aW1XSFY5ejFBSFdJVENGVkRIaVdYVlVHYU43M1RXQXVUUVJMR1B2OEwxT1JDTmdDYlVmY2FBUnJWX2w4cFExMTN1WmlyQmJQNVliMXRrbHROSTBIOTJURnJRUFZyTVVJLW9PSnM2UHdVVC1sYnJXX2hZTGtaVnVHX2lSOEZ4Y2N6MUJXa2tLcWNFc1FEd0FuSF9TTHlsWGZsTTJzSHfSAeMBQVVfeXFMT3RaU3BRMFl6RE5YQkRCVDFYQkJGVFFWTDNwSmVyc294d2VKME13ajV3VUFiWmM4MFZsOXFNV1Q0UEZvMi1jZnVPQXY4Wlp0bzV4cV8xZmdKUnlkbGVpNlV0TFA2Q1hHNFAxM1BiTkFjY1k0Q2pwc3FvVWV6T2NIb2pRd2xxdFhFbnBYeE5zNHhSVlhWLUc5dE9IdFA1bUdWbUI4aHNFMVVwaGpXZ0tlOTNoLUVnN05sQWljZUdSemdhZlNYOEJBdFVVQnAtbGh6WlJPRi1vSFBKaW5XUVhnekNZcnc?oc=5",
+      "published": "Thu, 03 Sep 2026 23:36:12 GMT",
+      "source": "India Today"
+    },
+    {
       "title": "‘Lego Harry Potter’ Collection Coming to Nintendo Switch 2 (Gaming News Roundup) - Variety",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUzVYYkR6Z1NLNFlxdVlTN3l4RTNHV2dKSDR2LWlhN3d4RjBqeGsyRXpFUXExWHhlSG52aUtheWM3X3BvMHdkUVBmSDdtN1BEUGdZbGNKeVZIQy1UT0F6dmlveVFZWEg4eEdvbFliRm9pTzJ2R2cxemtzYjZGbVJkbGxmcjdsT2dMdnFR?oc=5",
       "published": "Thu, 03 Sep 2026 20:04:00 GMT",
       "source": "Variety"
     },
     {
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNWlBRZ25WV1BDbkN6TDlWUW96M0tIMXpfZlZBbTF5V2RMeUxoRy11c2NCeTdfbkVtTjVHc2dzOXJCcE1wanExMVZVLVR0SHR2MmZrczNfci0zUHQwZzBrTERScmRtbnJVcUpzdA?oc=5",
+      "published": "Thu, 03 Sep 2026 18:01:35 GMT",
+      "source": "OpenAI"
+    },
+    {
       "title": "The gaming industry is experiencing its biggest crisis since the 1980s, says Epic Games CEO - ixbt.games",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVXJsRmZpYlozLXNSWHNhd3dWTG1lbTlvYW0xaEFkenRpcGlTNVY5RzRRLWdHcGQzU2JNZmpRRjE3Q3g0VXp3RFpSNTVmaVZVOGZNWW5fWkZIQkpHaEdTSjJaMmxQeWFXRWl4RGFJU08xWWl2YWROYjFUcUJqbk0tVHJ5dDJ6cVAxbGxYR19Cd21lUUtZSDRfRWwwaTJia29iWFB1eEZ2ZlhiaS1BUmR3cDNfdWRfUGJIek5WdkxQYW4yTjVMNEhkS0RLSkxleTJOYlkxY0VSMNIB3AFBVV95cUxQNGgteTc5TG40Q2Zpa1VfTk5SeU1rcFJVUElSMWhITHlHWDZyelBIU1VaX19sRDNOaXJsSlhHd2NuNURtVDVGMW9TUVNJSk1KY2c1Y0kwZEVoX3ZOYVd2RFVFU05aUkxpNmQxRl9oSWREVlk3NXFJMWpSVGVpbFBzTmdHOGd3TEx4aWl0Y3V2cmV4VzdWYkt6Y3V0bjlNdC1YenNTWWliY1hoZ2xrcnZEemstN3lTdjVVZXVnVVVBT1FaQTI4bGROaUZPOHVyZWdlNlB2TmNDc0lPaTJ4?oc=5",
       "published": "Thu, 03 Sep 2026 20:01:41 GMT",
       "source": "ixbt.games"
+    },
+    {
+      "title": "The Music That Brought Remedy's Video Games To Life - wallofsoundau.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQlBPbnJ0NTVNRDBIczBnb2o1RVRvUjZ0MnA4MllteGJsNmpLeVVCV0ZPU3hiWDF5T1k3dENEQ2FqdV81amtPNW5aclMwcUhWRUs0Q0dVbF85TFE4N2h0NlZudlRLM3c3YWtOblR3NWxLWnAyd3lYM0dEMTVCUWp2OTlrNmNIZw?oc=5",
+      "published": "Fri, 04 Sep 2026 00:04:14 GMT",
+      "source": "wallofsoundau.com"
+    },
+    {
+      "title": "I’m Honestly Shocked Every Gaming Desk Doesn’t Have This Feature - CNET",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY08wM1NFdkgtV0lzMERvSm44MTlmZzNvNU1uN0xuTFZKT1pqaXg3ZndWMlVMeTBaYUU5bERVVlIwTjU4U2VwcVB6X2NfUVhjTGRYeHhsbVFobVFVNWpoTi0wbjMwRHE3MEF2dTlnTENjS1JXUTMwME4xREt5SzdxQUxidmI?oc=5",
+      "published": "Thu, 03 Sep 2026 08:40:00 GMT",
+      "source": "CNET"
     },
     {
       "title": "Xbox Is Officially Putting Time Limits On Cloud Gaming For Game Pass Members - Pure Xbox",
@@ -80,12 +104,6 @@
       "source": "ICC"
     },
     {
-      "title": "Nvidia’s RTX Spark PCs launch in October with bold 100fps gaming promises - PCWorld",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQREJvTGEtQ0VJV3MxRnA0LW1Tem85d1lRNm8ydWd0NmhLUHMyckNPdE10LUZGemlfV1lETnRuU3N1amdrUmhTTDd1SEU3ZG82UElSWmVvSGJlMHUwY3k0dVppNzY0cFFxQl9wVVdGSXdmVEVUN0dQcC1ReUY4S0RBVUpJUlBlUUlJQWd4UnlJY1NrN2pRYVFhNTZzdTNRcFpBSEl1ejBvejlyaEZVNWFrUWpmNEVObWhC?oc=5",
-      "published": "Thu, 03 Sep 2026 16:02:48 GMT",
-      "source": "PCWorld"
-    },
-    {
       "title": "Microsoft opens up Xbox Cloud Gaming with new pay-as-you-go option - The Verge",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORG9yMG5GVUdHNlRLQ18tWnBzT2l0ZWgxdVpsVmU0V2tDa1Q2Q1BiVzU5cllhX3diREpzMTlSaWc2VUZVaTZCLURYVk5YQTBkZk0xME12WXZUNU1iQWRyTE9aZmRKRDZyekgzUTNQRDNmNjFIcXVETnVpcU93R1lORlBuNDluX1BKWmhKZ0pB?oc=5",
       "published": "Thu, 03 Sep 2026 17:00:00 GMT",
@@ -98,34 +116,28 @@
       "source": "UA.NEWS"
     },
     {
+      "title": "Nvidia’s RTX Spark PCs launch in October with bold 100fps gaming promises - PCWorld",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQREJvTGEtQ0VJV3MxRnA0LW1Tem85d1lRNm8ydWd0NmhLUHMyckNPdE10LUZGemlfV1lETnRuU3N1amdrUmhTTDd1SEU3ZG82UElSWmVvSGJlMHUwY3k0dVppNzY0cFFxQl9wVVdGSXdmVEVUN0dQcC1ReUY4S0RBVUpJUlBlUUlJQWd4UnlJY1NrN2pRYVFhNTZzdTNRcFpBSEl1ejBvejlyaEZVNWFrUWpmNEVObWhC?oc=5",
+      "published": "Thu, 03 Sep 2026 16:02:48 GMT",
+      "source": "PCWorld"
+    },
+    {
+      "title": "Microsoft's Game Pass Cloud Gaming Changes: New Usage Limits for Subscribers - gurufocus.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ1FTR2lkdHZWVDZiaXg2TEtNaGxtamxfM3RYUGtncDdOTDhTS3ZjVWQwQTZFanNZMmhUYzltUHpaVkF1NkRBZ25zMFFpcDl1QXdDNzl4d1ZRVTMwQ1dPVC1wWG5jbWk2S3VMdWhUWHFWaXRNVmtvVHZzOENpVGhtSDNlR0UyNU1iVVpVTjZiZUJEOWVyeHdDckdINmgwMVlXdzJBSV9qcUw4QzAwRC1IUTBCVQ?oc=5",
+      "published": "Thu, 03 Sep 2026 23:31:12 GMT",
+      "source": "gurufocus.com"
+    },
+    {
       "title": "Everything Konami Showed At Its 2026 Press Start Showcase - Game Informer",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaHh5Nm1QVkxaVmdrMEVROWN2RUlFN3RDZlZNck1XMHdsalFmVzEzazhPZTRDcGtES2dESEU3b3VhNkx2ZFNtN05NdlJWcXR5TWJIOVJ5ZUFQcGUzdzJrTHNRZXN2T0doa0xmOTEzVGlsQzNWS28xc0V3SWd5ZjRHWDhyWGtza2JKSlB0cXNzVEZLUVpKRlFaRg?oc=5",
       "published": "Thu, 03 Sep 2026 16:11:00 GMT",
       "source": "Game Informer"
     },
     {
-      "title": "Upcoming games – September 2026 - Nintendo",
+      "title": "Upcoming games – September 2026 - nintendo.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQajZ3Zmh5cnN2ZjBmMWV6RjYzbU4waVAtMENqSEREdVFjczduWTVCNUFIUTB3MVd6WmRUdU5MT0IxcnhNdU1wdXd1QkdvLW5pRWQ4UVA4WTZGZ1luRmRkUDh1Z3AyQjVka3VpNFdoM0lFU3Y3RG5LZlJsRzA5QVFrbVR3MWw4N1ktNjZGRDV6SzV4a3JTRENLeQ?oc=5",
       "published": "Thu, 03 Sep 2026 16:49:04 GMT",
-      "source": "Nintendo"
-    },
-    {
-      "title": "Microsoft putting limits on Xbox cloud gaming hours (MSFT:NASDAQ) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQelFpQjRocmkydGMyeFZjQnhBVEFfdmhkb0xMX2Jma1RJa3NvQ1RFSVpyOE5HTmtWeU9BcnN6bjh6OUhoa1VSNzMxT2VHczB6YVNTZkI2VTY3QmVfRVR4OHdNUjFaTkNNV0VjMHRLV3JMb1NqNUwwUHl5bjF4WjRQVWNsdXphMks3NFhScGRTOXNnS2M?oc=5",
-      "published": "Thu, 03 Sep 2026 18:20:27 GMT",
-      "source": "Seeking Alpha"
-    },
-    {
-      "title": "Microsoft announces cap on Xbox Cloud Gaming hours for Game Pass subscribers, admits most aren't using it much anyway - PC Gamer",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOakNzWU0xbzBHeDExQ0NfTWlIajZtT2RoZzBPR1p1eTRKVmY0MTlMeU5remVPX1BnZ3NzVjZCM2pyS3kwWk5mYTVTNkhLUHRSOWRjY1VFZmQtTFpNX1N5WUtPd2JSc1QtU1hJV3pRaE5yRWJ0S2k4TG5Ra1lHRVJQWlJUWVBCVVEwLXprX1djZFlUT2o5VmNzbnhwcVFqV1pZRDYzeXhtb1hoQldMc2RZd2kydWhkc3dBRVdtTzVSMFFjVFpVNzAyZE9HNXk0b1ZjaXQ5ZWtQM09tMFVpOEVyVFZuZ3Jja0poUkJZcQ?oc=5",
-      "published": "Thu, 03 Sep 2026 19:53:34 GMT",
-      "source": "PC Gamer"
-    },
-    {
-      "title": "Xbox finds new way to charge cloud gaming subscribers for cloud gaming - A.V. Club",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VX0xBTFBJVlN2OVVYYWZUYnZISWR5cFYwQmZnYmwxbGtlWC1YeWdEM19UNE1wamM2UndIaW9iV3p2Wi1GR2RiYWI0V1pEbDlEMHlYdWVnSHNuYkZ2VjNqMFZzZnBZQ19rY1JhcnRR?oc=5",
-      "published": "Thu, 03 Sep 2026 20:40:00 GMT",
-      "source": "A.V. Club"
+      "source": "nintendo.com"
     },
     {
       "title": "\"Habibi, Come To Iran\": Tehran Mocks US With 'Minesweeper' Game Over Hormuz - NDTV",
@@ -146,6 +158,18 @@
       "source": "PCWorld"
     },
     {
+      "title": "Microsoft announces cap on Xbox Cloud Gaming hours for Game Pass subscribers, admits most aren't using it much anyway - PC Gamer",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOakNzWU0xbzBHeDExQ0NfTWlIajZtT2RoZzBPR1p1eTRKVmY0MTlMeU5remVPX1BnZ3NzVjZCM2pyS3kwWk5mYTVTNkhLUHRSOWRjY1VFZmQtTFpNX1N5WUtPd2JSc1QtU1hJV3pRaE5yRWJ0S2k4TG5Ra1lHRVJQWlJUWVBCVVEwLXprX1djZFlUT2o5VmNzbnhwcVFqV1pZRDYzeXhtb1hoQldMc2RZd2kydWhkc3dBRVdtTzVSMFFjVFpVNzAyZE9HNXk0b1ZjaXQ5ZWtQM09tMFVpOEVyVFZuZ3Jja0poUkJZcQ?oc=5",
+      "published": "Thu, 03 Sep 2026 19:53:34 GMT",
+      "source": "PC Gamer"
+    },
+    {
+      "title": "Microsoft putting limits on Xbox cloud gaming hours (MSFT:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQelFpQjRocmkydGMyeFZjQnhBVEFfdmhkb0xMX2Jma1RJa3NvQ1RFSVpyOE5HTmtWeU9BcnN6bjh6OUhoa1VSNzMxT2VHczB6YVNTZkI2VTY3QmVfRVR4OHdNUjFaTkNNV0VjMHRLV3JMb1NqNUwwUHl5bjF4WjRQVWNsdXphMks3NFhScGRTOXNnS2M?oc=5",
+      "published": "Thu, 03 Sep 2026 18:20:27 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
       "title": "Bangladesh unveil Men’s squad for Asian Games 2026 - ICC",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOalBuODItTXNlTU1qcHljMVl0MGpHdkxUV0JQTDZKNzVhRVZQVm82bXdfTjEteDVXbHByQUJDTlIxZ3hIbXE0eHo3Tm9pVlR3NnlrbzFkdGROcUhab05kR282VW1BX1lTMWNNQkFPckJqbVFQS1NkVWJ2cmhVNWdPZm9pWkswZXNwdU1n?oc=5",
       "published": "Wed, 02 Sep 2026 14:35:42 GMT",
@@ -158,22 +182,22 @@
       "source": "PCWorld"
     },
     {
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNWlBRZ25WV1BDbkN6TDlWUW96M0tIMXpfZlZBbTF5V2RMeUxoRy11c2NCeTdfbkVtTjVHc2dzOXJCcE1wanExMVZVLVR0SHR2MmZrczNfci0zUHQwZzBrTERScmRtbnJVcUpzdA?oc=5",
-      "published": "Wed, 02 Sep 2026 15:19:50 GMT",
-      "source": "OpenAI"
+      "title": "Xbox finds new way to charge cloud gaming subscribers for cloud gaming - A.V. Club",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VX0xBTFBJVlN2OVVYYWZUYnZISWR5cFYwQmZnYmwxbGtlWC1YeWdEM19UNE1wamM2UndIaW9iV3p2Wi1GR2RiYWI0V1pEbDlEMHlYdWVnSHNuYkZ2VjNqMFZzZnBZQ19rY1JhcnRR?oc=5",
+      "published": "Thu, 03 Sep 2026 20:40:00 GMT",
+      "source": "A.V. Club"
     },
     {
-      "title": "Epic Parties bring cross-ecosystem voice chat to Fortnite, Epic Games Launcher and mobile apps - store.epicgames.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMHcxc1VQcDZReUhxSDhhUEZXQjJ3UUY5bUxxZmRxU3ZkUmpZeXZEX2tGUGN6Mm5UODEyN1NqT3NaektMeTFGNHRsT2RFUnRjb2YtRWRCVHlxWDFtRU95aXNCYzFyaTFOWk5GbkpxN0ZxdWFRR1ZjS3REVGw2U1BZNTJ2QTBGMC1yZ3NPdkRuN2VXNnNmUUFnY3ByQ1RLcUhLZWxjRHZIekMxWGJleEd4Vi15QjUzZUF4eVVFTA?oc=5",
-      "published": "Thu, 03 Sep 2026 11:14:07 GMT",
-      "source": "store.epicgames.com"
+      "title": "Your PS5 could become more than a gaming console with free live TV - ABC10",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbHVXNTZGNFp1eTV3RFZzblF4TS1SQUdGZ1VmdFpyWHMtZzBkOWx2SlprdHYtVnpWNThBVmpjREZGRldjTjZUd1B1c0pvRVN1cGNfTmthR09kUVIwT1p0UlJTSEJXbmxGeDM2eTR4TUN0S0tMcVRFalN0Z0NOU0JhdnZuVW5sZUJ4VThsblZuR2NZOXhGRWlQOS1xZUh4ZXRKcEYxWmNzcGEtSy1jQU9DVFlscFZrblhnV21hdU1YZ3ZQa0hmX1NZM290WDFtTFFScGRLbEtzSkE3YnJGOXg3alBUZERzY1NwUWtwTWZNSEU?oc=5",
+      "published": "Thu, 03 Sep 2026 23:51:00 GMT",
+      "source": "ABC10"
     },
     {
-      "title": "White House website debuts 5 low-res arcade video games that promote Trump’s agenda - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS2ZjMGhzREZNVm5VeG5uMFZiX0VFbVo1Rk1LaGY0NmNlNXpNREl1VjRYa3E1dkk0QVItZDFQSTFhcWU5YmZHZHVrTUxfNC1vaVZUdHhsNUZGWEU3Ym1xMkM5N05qdGNGODhNeUlLOXV1SUdmTGE3QjkwbWxhNS1mRmRVdlNkQXFZY3NXeTd5U1ZDWHg4UVd0YWpOdw?oc=5",
-      "published": "Thu, 03 Sep 2026 22:10:00 GMT",
-      "source": "AP News"
+      "title": "GTA 6 Pre-Orders Jump 436% After Netflix Reveal, PS5 Leads - ascendants.in",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TZjhOQ19jWjBJQWxrcmNZUWMycTY4Ymg2TVFMMDVoaXVYRmxvZk5fSllXd1ZIdmlKZFR1Z29KdWdGNThCelozY2lLZ1JmeFllZXhINXFEbjJSbDc5UVJ5UW1MZ2J1eUR2M2lYWjhubXZlNWdRcjhWdQ?oc=5",
+      "published": "Thu, 03 Sep 2026 12:03:18 GMT",
+      "source": "ascendants.in"
     },
     {
       "title": "Game Pass Will Start Capping The Number Of Hours You Can Use Cloud Streaming Each Month But Says Not To Worry Because This Will Only Affect 4 Percent Of Players - Kotaku",
@@ -188,28 +212,16 @@
       "source": "PC Gamer"
     },
     {
-      "title": "Ben Starr is a mermaid in upcoming SEGA Dreamcast-inspired fishing murder mystery - gamingbible.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT1ZlYVZ1NEVaNE1jOC1sUXR3dkNVRUZHdHZ2NjlLamtENDJBeUZrbGdhZGt4eUJUWE9PcVlWRE5RSWRfcDdLTVBCR0xMMFJjUmR0MWpMVkJFMlpkNmd2ZUhsM3l4VGpHN3ZNdWE2TXRiVXQ4N2s5V21FaVQ1dG5vTlQzM2c1Zw?oc=5",
-      "published": "Thu, 03 Sep 2026 18:00:00 GMT",
-      "source": "gamingbible.com"
-    },
-    {
       "title": "‘Jet Lag: The Game’ Season 19 Finale Heads to Regal, Picturehouse Movie Theaters as Nebula Expands Cineworld Partnership (EXCLUSIVE) - Variety",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaDh2cDVmVXF4NkJKNjBveGExRi0yNHFMSGdMZTd0cVpkdzd5OF8wNWFKVGVmb2NpcDg2a05DRmhWUldEZmNVQkwyODBWQlE4cnhZUnVWcXJnQi1tZ0hJU2ZGTTQtRmtoNlliQXAxdTV6a3d5WjVjekE3RDZxRWlYckxMbFdLbjU2cVF6cGFpV1NUU0w4X21IalZiZzZSdw?oc=5",
       "published": "Thu, 03 Sep 2026 13:00:00 GMT",
       "source": "Variety"
     },
     {
-      "title": "Roundup: Here's What Was Revealed At The First Ever FPS Games Show - Pure Xbox",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMkdWaDgwbXhkZThxcDUxYWZ4dlRWYkVwa0U0Z0Jkd2x4bDFtNzVyYklZNW9TNlRyeDZmdkYwWlpKVkVPNGd0aW1GdXU4MkpuSUJiUTVTaVRtbWlWY1JDUmpZajd4UnJOSEtmOWN1Q0NuNWlOdlU2bVZDQy1ST3Rqd1ZoVTh3RHFjRVBkY0RwV2h0NW9NaHpZUkd1c3ZqYTRxR0t1aQ?oc=5",
-      "published": "Thu, 03 Sep 2026 18:45:00 GMT",
-      "source": "Pure Xbox"
-    },
-    {
-      "title": "Here's all the Xbox and PC games at Sony State of Play September 2026 - Windows Central",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRV9mVGlRRXFZcU4yd21iV2J3NUVTQ0FQN3JaZWl0a3ZxTlJDa1dHOTNiVFFCSjhHb1hfYUVCY2ZxUmRrZTZKUTZEcm5DeWhHOEdiVVVuanJoV0g0ZzJxMV9sRTRqWTBZN0pfczdJWHB3TmN2X1dWU1NxRlIxWlNiaXVxSW9Gazc1VFBWMXVsN3JjdXNMVlVqN0VjV0tQSUwyc2lZU1RrRGlHZU5ETHpHazBicHpXTl84Vks3V1dzdTJNX2hQUHdrbVBuN0VmYkk4OVhXbGczU1ZvVG55VWFZdnRkQWFnWkk?oc=5",
-      "published": "Thu, 03 Sep 2026 15:23:00 GMT",
-      "source": "Windows Central"
+      "title": "SportsHero Appoints Duane Mutu as VP of Business Development & Gaming - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM2NyOGZCdkZ1eTBVc3NhV1d3NHBaVjhsdGFmcG9TZ3JFdEhfdS10WWg5OFBPdDRMVFl4SGF5N1I2OWhOYl9kZkZMODNUdlR6MC1UQjFud3NuckFNYmJnWERHNjQ2d0pCc1NjaEwyQjlDVXRyQjZ0UnNyZHVTVTcxVy1XNnVGTlBuZTZkeGoxcE5OTmUyS3FHdkFVT0dDcER0LWdINmhLWVBHeVhzV3c?oc=5",
+      "published": "Thu, 03 Sep 2026 23:49:46 GMT",
+      "source": "Kalkine"
     },
     {
       "title": "Microsoft: Sorry, But Time Limits Are Coming to Xbox's Cloud Gaming - PCMag UK",
@@ -218,10 +230,40 @@
       "source": "PCMag UK"
     },
     {
+      "title": "Here's all the Xbox and PC games at Sony State of Play September 2026 - Windows Central",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRV9mVGlRRXFZcU4yd21iV2J3NUVTQ0FQN3JaZWl0a3ZxTlJDa1dHOTNiVFFCSjhHb1hfYUVCY2ZxUmRrZTZKUTZEcm5DeWhHOEdiVVVuanJoV0g0ZzJxMV9sRTRqWTBZN0pfczdJWHB3TmN2X1dWU1NxRlIxWlNiaXVxSW9Gazc1VFBWMXVsN3JjdXNMVlVqN0VjV0tQSUwyc2lZU1RrRGlHZU5ETHpHazBicHpXTl84Vks3V1dzdTJNX2hQUHdrbVBuN0VmYkk4OVhXbGczU1ZvVG55VWFZdnRkQWFnWkk?oc=5",
+      "published": "Thu, 03 Sep 2026 15:23:00 GMT",
+      "source": "Windows Central"
+    },
+    {
+      "title": "White House website debuts 5 low-res arcade video games that promote Trump’s agenda - apnews.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS2ZjMGhzREZNVm5VeG5uMFZiX0VFbVo1Rk1LaGY0NmNlNXpNREl1VjRYa3E1dkk0QVItZDFQSTFhcWU5YmZHZHVrTUxfNC1vaVZUdHhsNUZGWEU3Ym1xMkM5N05qdGNGODhNeUlLOXV1SUdmTGE3QjkwbWxhNS1mRmRVdlNkQXFZY3NXeTd5U1ZDWHg4UVd0YWpOdw?oc=5",
+      "published": "Thu, 03 Sep 2026 22:10:00 GMT",
+      "source": "apnews.com"
+    },
+    {
       "title": "Mike Dean: Ex-referee says he played in-match games 'for a laugh' - BBC",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wNHJkMVhiX2g5ZjV1UHpOY2I3aTZocFg2QWJIR3QwSWxZUlZreDh4S0pHX1k0b2NmMGRuZlpaTTcySi03dVFLS2tscnhWU0FZNWxDRzY3TktZdWVvc1luSWc5bTVvSjg?oc=5",
       "published": "Thu, 03 Sep 2026 11:45:09 GMT",
       "source": "BBC"
+    },
+    {
+      "title": "Roundup: Here's What Was Revealed At The First Ever FPS Games Show - Pure Xbox",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMkdWaDgwbXhkZThxcDUxYWZ4dlRWYkVwa0U0Z0Jkd2x4bDFtNzVyYklZNW9TNlRyeDZmdkYwWlpKVkVPNGd0aW1GdXU4MkpuSUJiUTVTaVRtbWlWY1JDUmpZajd4UnJOSEtmOWN1Q0NuNWlOdlU2bVZDQy1ST3Rqd1ZoVTh3RHFjRVBkY0RwV2h0NW9NaHpZUkd1c3ZqYTRxR0t1aQ?oc=5",
+      "published": "Thu, 03 Sep 2026 18:45:00 GMT",
+      "source": "Pure Xbox"
+    },
+    {
+      "title": "Everything Announced At The September 2026 PlayStation State Of Play - Game Informer",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYVRuZG1MM0kySjVEUk41VWFMZ0FWWmN6Q1ZqY2RsSG1wN3BFdnZ0VUNoUnpVVWVKSkFVd0VJUk9QYXl0eVBjZXRwbFd1al9nQXRtSFdnUGlsREREc0J4U01EUUVZTDhjR1AtMmdhMU1KbmQ3Vk1MRzdBVUd1d3RVdU04Q0ZwNUVxaFZmd0llM0NnX3VJRUwwZE10U3B5dXNvaWxZWTZEc3NJSXJxRTg2ZllNNk5TUWVqYVE?oc=5",
+      "published": "Thu, 03 Sep 2026 15:38:00 GMT",
+      "source": "Game Informer"
+    },
+    {
+      "title": "Steam earned Valve $15 billion in revenue so far this year, with Crimson Desert alone topping $203 million according to analyst - GamesRadar+",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPM0FfdDM4bDRzaVhJZy1OWTZlYnlIcVh6WmFTRjhDM19XVXpuU2FXNGo2MzdFVUwzNVJmTzl4Z2FtN0pnbzFENXdiQkkxMDJ1Ty1BOGJKRnlpS3QwaXMxV0FlbUhMZFYyOWtfdWI5aldYaDlmM1MtYXVSaXRLbjd3dm1pa1hxcUhUdVJVR0o0RUx3TUdzRDMxLWNnWThZRDVqRVJLeDhiX195bUk5LXpJemxjUThjVWZQYUZQdzZaR2dSbmd2TG5EdWdKY3dPZnpNVHQ2alBlUUg1TjlaRkNVSjE4T1hIQXc2WFg1WTVYRWhwVlZBZmY4?oc=5",
+      "published": "Thu, 03 Sep 2026 21:04:40 GMT",
+      "source": "GamesRadar+"
     },
     {
       "title": "The Blood of Dawnwalker is already a hit on Steam - DLCompare.com",
@@ -230,16 +272,10 @@
       "source": "DLCompare.com"
     },
     {
-      "title": "New DLSS 5 Swapper tool can mod DLSS 5 into games that don't support DLSS at all - TweakTown",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91OWEzSklZOFVzMnRHeHRjWFI5c1pVX3FfVUVFUHllY1BYZ3N0bWVHY0tIeUtZWHhhY0dOVjFWWTNJSG9GcVpIT2o3ODNKQU5pR05KWVZEdVdQWERjNU5FSGdzbGRkdHhOSUE?oc=5",
-      "published": "Thu, 03 Sep 2026 14:50:07 GMT",
-      "source": "TweakTown"
-    },
-    {
-      "title": "All the best reveals from PlayStation's State Of Play showcase - NME",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTEo5ZEpXVXRhQXViZVRia21DdUUxUXA4enJ4VFE5NnVDT0lUZjI2ZmMxMkZ6RkRDZ3oyelRhLW9XTjZUMU1MN2VDZFZrUG9JUVh5ZkM5WU91VWhheUlfV1Eyel9jeGZDS1k2dTNzUmE2TFNNbTQ4QkNvS004MGNwUFZ4aE5EWkY1N0MzR0Z4RWNuYmNrck5rOUcyd2FXQTEzY0Jhdw?oc=5",
-      "published": "Thu, 03 Sep 2026 14:25:24 GMT",
-      "source": "NME"
+      "title": "NFL set for first-ever game in Melbourne, Australia, in international expansion - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcXZWVWZSc2R0RkRiSmdmTlN2bTN0Y2ZabkdIaGxjTjc3cXM4ZnpFUlpUZnJ6Sk9zSFc2UTN2Y3RvLWFOc0I1N0gwQkdHa2UzdEJENHY3WXJEVXJFTVFoNXZIQTNuSHo5c0NkNGREUzA4Z3VmS0lPZTBLM0hhdXJJMnBaODdjQi1YSmx4R2NB0gGTAUFVX3lxTE5oR19SRG53dG40NkEzekdhM21EMkRDczgzZFBmS0dPcjU0MEQxVGl2cF9fa2xPWGJPbVVOMHVxcThGaV9VM3V0b3VNYk5VVXZsMmJscUxBSE9PQThhM0N3QXJJT2RDaFA0cktXdWFEY0RoYURlcDRmUXI5QzJQNjQybE5xbUhnM2VWU1c2QUxVem5xTQ?oc=5",
+      "published": "Thu, 03 Sep 2026 15:04:13 GMT",
+      "source": "CNBC"
     },
     {
       "title": "CD Projekt Red isn't 'planning to rely on AI making complete games', and will still be 'predominantly using people' for The Witcher 4 and beyond - PC Gamer",
@@ -248,58 +284,22 @@
       "source": "PC Gamer"
     },
     {
+      "title": "East Side Games Group Announces Cost Reduction Initiatives to Strengthen Financial Position - PR Newswire Canada",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaklTRENvNlhQZnk5T1lIaDZxSWlxbjVNZGtmUUllaXpRRFNEMmlHTTlqSmlNNDFRQTdKTGtHYnBzd2E2a0xjOENDN25fX0JORmZnZmtfeFp4WjRtVy1KUklTTXg3RW9aVkpiSExQQ1E1aVB4VjJjTVp3OU1kWnl3TzkxYnNwRV9sOHVSRFh2NmtMN1NQazBUekdkMGtRcGtiei1KMFhYUjlPaFkzMHZac3FPZ084dGZzaVREZWR5RWFtQTdJcXYyODMtUy1VUjRXTFd4VEptT3ZyRHhy?oc=5",
+      "published": "Thu, 03 Sep 2026 23:58:00 GMT",
+      "source": "PR Newswire Canada"
+    },
+    {
       "title": "N.B. and N.S. gaming Crown corps fined for lax money laundering reports - Global News",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlOGhILWN0bmRLVG1xbnVfNEZ1S0N3QlllMXAtc21lQ1pHWktFdlNOU3Jpa3laN0Q0a3c0WkJoeEtwT19pbURMU2dWbHQxbmJCMmhCaGNLcEp0VklaSmVtTkdhd3lFMnJEX3pMV1dVQ3JpY3E0a3c?oc=5",
       "published": "Thu, 03 Sep 2026 15:54:15 GMT",
       "source": "Global News"
     },
     {
-      "title": "The FPS Games Show 2026: Start time and every game confirmed to appear - GamesHub",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYnJ2WnZoU2dtOGpPSUg5ZS1zYm0zR1F6SmNrOVBJQjN1RlV0Y1RDQVpVbGFRRU1BX1FBZDZrS0RIeDB1NkJuYTdWdlZvak0zU2RQNW9RQ2xOMUcxb2pNU0VFR0h1VFcxOU85YlpfMEVoN2xxM3JBOUxnOHYtM1NQQ3FFb18?oc=5",
-      "published": "Thu, 03 Sep 2026 12:28:28 GMT",
-      "source": "GamesHub"
-    },
-    {
-      "title": "Launch Point brings next-gen gaming to Mountainview College - Binghamton University",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY24zU01JU3VjS0pHUklHTXRlQlZFWF92ajB6MHJDTGZjbDAyVjdob3ZFS09nYjRPWXNJV1hsaEplb2x1SnhHcTRpZHJUa3VWYW9GZDdxdFMzRklyMks0OVlrUzRfSjY4SFp2Mm40cnNYTTRGeHFEUWVjekNOdEZiTHVUbXl2SHVWazA0WUROUEE0YmhFX2Fvc2ZNV0ltWTVDQkNfRQ?oc=5",
-      "published": "Wed, 02 Sep 2026 20:28:03 GMT",
-      "source": "Binghamton University"
-    },
-    {
-      "title": "Final Fantasy gamers shouldn't miss this retro-inspired new free RPG taster on PC - gamingbible.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdFktNkdUSnRSeVJMYlRwSEhlQXZ4eTZsaUhEdmdMQ2p2eUoyX0x2bm1WNzV4RDZnN29TUmpNVE9wS19tc2h6cGN6QjFEdmdhZ2hFWUR2YXlXNzFRQmsxTDJEa29za2dFa2xrZURLbEtlR0xrTFpjejd4M2NBTGR1UnFVNGFkVnJySDBuNGlFakpaZ1pFRkZKVEF5YWlkUUZCUDhBMzdUakEyY1ljSmc5VkZWRQ?oc=5",
-      "published": "Thu, 03 Sep 2026 21:00:00 GMT",
-      "source": "gamingbible.com"
-    },
-    {
-      "title": "Maverick Gaming to close two Tukwila casinos, cut 238 jobs amid Chapter 11 restructuring - yogonet.com",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdlpYR0Q4dENJcDRtdW9hOS02ZUlWTmxLeFJxRW1rUFdMNm1ES3F5WTlQQ1VsOERmY3d6LUZhNF92ejh3dk9INFpSWHg5UlpyWU5GeXJMWmxoSjdENDMySlhnNHV5aWFSMW9rRE5WNXFmT194ZXRlSEtIX2JCYUdocUJuVFFFdFlMQ2hIbWFVZFh1Y1diNlVlcDZmZkNjb3Z2ejRxTEs0YW1oaVU4SDVBWllUMl9YWk5SR29qV0dlZWxFaEMycndFeUkwZUtwNmI0bEQ3bGJqUFdlVXJwbURVQzJn?oc=5",
-      "published": "Thu, 03 Sep 2026 21:32:43 GMT",
-      "source": "yogonet.com"
-    },
-    {
-      "title": "Acer's bizarre hybrid handheld/laptop concept is way more interesting than what is actually getting released this year - PC Gamer",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQdGhUTTB2aWs2eUFpVURqd3lKY21BXzRaMHNJUDlrdnpyWERBRkYxU0loVnNhbkswLVhXaVZUYnJPTGp2Umx2WUZoTy1mUHIwNjdFNVVCb1ZSZWVNWXpNQ2h0VnRpTzdyeWxFWnUwN2JnM1NuVFV4bms2LXdHV242cUVheWUxSGRfMk1rbFhvNWhPWVJWaVJwekxDSThUeW1CUWJONUY5ZUN2WWM0SHMxdnRQQTVMS3hMd2ctWDY1bTFHczB2cUZyU0hvbFUwYktwYURxQTFmWVlnUFQzWEVfdW5mcTEyOEc4cUEydG1JNUhOS0JrWFlneEpUc05lSTdi?oc=5",
-      "published": "Thu, 03 Sep 2026 11:16:25 GMT",
-      "source": "PC Gamer"
-    },
-    {
-      "title": "Xbox Game Pass free game lineup confirms arrival of Call of Duty’s most underrated entry - gamingbible.com",
+      "title": "Xbox Game Pass free game lineup confirms arrival of Call of Duty’s most underrated entry - GAMINGbible",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbUl3MDdnNmtENU1RZWFtOFdFZHFsYzR6dkZDN3drOTNwSEJBSC1wNjVRaGRHcmRvS1RkRFhGYjZuTS10S1JVZ3hMY3ZoS2pZWFBmaXFOdm5WS1JNaVc2SUI1ZUZKLXZHS1BLNFFoeVMtRkUzNWNOZjZhRFVyMC02V2xKUFczVGdQSFR3aV9hQkxGaVVH?oc=5",
       "published": "Thu, 03 Sep 2026 23:00:49 GMT",
-      "source": "gamingbible.com"
-    },
-    {
-      "title": "A multi-month delay for Deus Ex turned into a huge payoff for one of its best characters, says designer Harvey Smith - PC Gamer",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPTWFzdHdITWZSRlA2dlIyb3RSNmhfU3Y5OHFKc19xdGVTZG9ybXpfdzdVYWNMMUhWd0hwVEhGYzNzbTJmQkpCbVhZb1QxNThuRHhVamdwQkdzd2ZYNmZ5UEhVOVdoay1iRXZzQlFfWnZGWUoyc2pPQlNfS21ueUVNem5SYXhXTU5XdEhFWW41Nl90Rk56S0xOYmFBYjJ5T2lfSWs2cUhXeU9HRGRjOUhCVFkyNk04NTNjWDFOUU91T295X0N0Nm50Zmk2TDZLb2ozMl9JNFI4aTdvWFE2S2xzYi0xZElGZ1BDWEJKWG5TM292SFJjalJqMjhRb3daNTFWdUJz?oc=5",
-      "published": "Thu, 03 Sep 2026 19:04:26 GMT",
-      "source": "PC Gamer"
-    },
-    {
-      "title": "New Final Fantasy 14 site update stabs the final pin into my conspiracy board, leaving me 99.9% sure I know what the new physical ranged job is - PC Gamer",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQT3JDcllmZEp2VmxWOVMtM0xneWh1MXNibUZUZ2ctZjA4cEJ1M2NJc20ydXpLQ2VOdFdscER1TkUyMmtRVFdYMGp2SkxBU3VjZy1fSV94Mlp6ZlZlZ0hWeUwycDFQXzF1RnJRTm5kcDBVWi1VOFRJMTd0elJGWWFNdXNzWC1UdHJIb2llSVBzd08xRjBuU3FqRFd3eTY5b0U2eUxIWUE1QV93Z2hZR1ZUWWJid1FPamtibWZtcEtGd2VFMGNHZjlJQWMxbkVzZ3JLbXdodmlnbER2REdjekNXM2NpdWhsUWFLVE00THJ1M3NES0FRbXhxQlFNVElMb1VUUlpmdi1pYTBNelAzV3FrVFN3?oc=5",
-      "published": "Thu, 03 Sep 2026 11:05:06 GMT",
-      "source": "PC Gamer"
+      "source": "GAMINGbible"
     }
   ]
 }
