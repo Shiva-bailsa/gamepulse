@@ -1,4 +1,305 @@
 {
-  "lastUpdated": "2026-10-13T07:22:28.358602+00:00",
-  "articles": []
+  "lastUpdated": "2026-10-13T15:34:57.469630+00:00",
+  "articles": [
+    {
+      "title": "Fortnite-maker Epic Games confirms 'huge pivot' towards using AI - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9US1VJdnRHRkwwaGJsckxycHhRQmFERkh5N2tfZ2xCbE1xb3FrcmRTcF82a0JsUjdzUU9CUFRqSFJheEJkMXp0NEtQOXh5WEhxZWlNX1ROWDZPUGc?oc=5",
+      "published": "Tue, 13 Oct 2026 11:42:11 GMT",
+      "source": "BBC"
+    },
+    {
+      "title": "Epic Games Delays Disney Project, Asks Developers to Use More AI - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTUhHT1B3MDkzN0pJSEZRMjZKY0RuY1pmbEEtT1lFRzlsazJWSkFObExFb1ZNeUVsc3RkYXJPM2tCU0l5d21CRGVjSUJaN092eWlybk1jY09saVpsYWdwamc3WjU1T3ItNzNXQ1ppUmxsbzF2RHZxN3BNODZoRXo2cDFVRFVnZk5FYWFsRUZpTmFBRWhkOVBBaVgtTXpCdzNZZGFyVkJrcTE4Z2FHd0ZUTUVRVlQ?oc=5",
+      "published": "Mon, 12 Oct 2026 18:24:41 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "GTA 6 Leak Reveals Collector’s Map Reportedly Coming With Every Physical Copy - ComicBook.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVDdIeEdBRnVGNVQ2Q2tZUXhMd19ETGJibzVVRUJublFxUmUzb0tFN2ZjbktCU3R6OWJmZmNJWTlEQW9rUmVkbXNNbXh0ekFTVTRVdGc5b3UxWllrakQ2b2FKTjFXSkVQaTFtcngzN0ZlcFFHVTdielhtNFNLaWY5bw?oc=5",
+      "published": "Mon, 12 Oct 2026 19:03:19 GMT",
+      "source": "ComicBook.com"
+    },
+    {
+      "title": "God of War Laufey Collector Box Available for Pre-Order Now, Doesn't Include the Game - Push Square",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYjRnVkhnei01bkpQaWV3VUxVM3FWWl95ZUZEakd3ZjhKNHZfTmdyUXVPaUVzbUNieUZTTC1fUjBWVFUxQmNjdnZpTXhNazNSQXJBVTdJdjlYVzhGTGdEdmZGOWljWnpVcTEtTURPRmM1UXlZeHE0bUdtakQzUFlfa0xSR2t5eFZWRUE3OHRrNXk5YzAwWl9lWVNxcnNZQXFVWTZxa2F6LXNwSlo4YWU1MmVWVHBKNlk5Z2N5RWFGQi0?oc=5",
+      "published": "Tue, 13 Oct 2026 10:15:00 GMT",
+      "source": "Push Square"
+    },
+    {
+      "title": "Welsh character Rhiannon introduced to Chinese game Reverse: 1999 - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XS2wxSkU2Uzd4UHBuSFhYSXhRa1lyLVNqS1RTZ1JPX0hkUFAtUWFDMWNCQ0YyUkh1QmdIdm50YjloeGd2SC1kdm9zbklackVVWmxxZHU2RFdtZw?oc=5",
+      "published": "Sun, 11 Oct 2026 06:02:09 GMT",
+      "source": "BBC"
+    },
+    {
+      "title": "Upcoming Changes to XBOX Cloud Gaming - XBOX Wire",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03Vzl4Rmc2c3NIek1mMnE1V1JZdklpWlhEREY4RjZQMk9nRThMbkNodEI3VUNCdDdvRXllWG50R3VkN05JeDBhYmMzSTl1dFVJNGNlbVkwcnlHSUM5OXk0elprM3FzRy0zaUFEMzc2enhLWTjSAXhBVV95cUxOUGRveVBSVVBpaDdGUDZackpmT1MzYXVmSDExZlh3MTJDNXlSZDJHcWxpN0p6MlNuZFlJaWVpN0xoWXFrVy1TVEJvWUFjLUx6WFFUTXVfUHVOUDNiMWlrVGQ3NGhWUTNQZWJjcU5KLUpWb1U4SVBjNUM?oc=5",
+      "published": "Thu, 03 Sep 2026 07:00:00 GMT",
+      "source": "XBOX Wire"
+    },
+    {
+      "title": "Sonic the Hedgehog to Headline Fortnite’s ‘Override’ Season (Gaming News Roundup) - Variety",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSl9VWUFJMVhHT3RsOHdJZGhGREZWd1Y4QmcweGRYN3g3TjAxM1ExR05xN0JXbDRCMkpZLThQNU1VM0lZdTZiMnlVSFViUFFuSElWUmZFZVFLR205TTE4b0VmNnZxRHF6cDE1WXZfdG92Xzl3Y3F4MXBJRUVpWDZfdDJ1bHNEUjMtTWk1YnFGNWpWazlUcW5LREJZc1FzbkJKWEloNzFjN0FUQQ?oc=5",
+      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "source": "Variety"
+    },
+    {
+      "title": "Conventional diagnostic tools overlook gaming disorder in female players - News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVGFaMVlvMDZKSVpOT2lSZno1TThTUlBBeDFjZlZkSE1vd09PLXE5ZTl0WC02VjhvTXJHV2ZEWmdhd3N0bWNYaVlrdjgxZEFwZXBxYmYwbjB5NWJIRWlERzdVRjkxeGZTNnoyUkROb1VOdzVFUzFXZXZRZWwzczlRM0gtV0QyclBIZklzSUFqdk8tYXhaYko5YkI1NTRNM3JGQ0xwT01RZEJPTm4tejc2aWVqMnVuSmo5NV9vdg?oc=5",
+      "published": "Mon, 12 Oct 2026 20:18:00 GMT",
+      "source": "News-Medical"
+    },
+    {
+      "title": "RTX Spark: Hundreds of Games Oct 16 - NVIDIA",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObjhLNXNOdENvME9BNXdBa3hEeVRPTGpFQWIxaEdnRWhNaEpvNUQyaDZpUm5FRGR0dEJyOGFiLV8zTWZ1YTRTeUxNdXBDLW9CajRPN1c3Tl9uUlU3MGZSY2pjQ21JQ3JNb0Rhdk1XLWtYVlQzX19nUGozbnNDYUJOQzlOb0w4MmhGLXc?oc=5",
+      "published": "Tue, 13 Oct 2026 11:59:23 GMT",
+      "source": "NVIDIA"
+    },
+    {
+      "title": "Boyd Gaming stock rating held at Market Perform by Citizens - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLWpxZ1BzQmlqSU5FVXlhXzRSMEZ6TFk2b2JaSlk5eVRhVGdNRnlsMG93YlZtTFR0YzNfS3NYWEV3akJveXpHbVNKNEtodjNoV3BHRmlzLTVVX1BwSDRQdnlWZHVka3pXR1hVM3NkZlJ2STFPbWExQ1d1OERrQ0NDSGtTWGFvaHVqZHRWS0xmeUlVMmNIams0TzMtTzZpSGg5NVlTWHBnNzh6WUx1SkpEdzQ1TDh0cTRTemZHdw?oc=5",
+      "published": "Tue, 13 Oct 2026 10:10:17 GMT",
+      "source": "Investing.com India"
+    },
+    {
+      "title": "Samsung’s new 5K gaming monitor makes me feel so old - PCWorld",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa1FfeVc1Y1ctbGotcS1nV2lRT294c1BETldOX19UdXFxRnJseGtXLXZwV1RtaXV2M0o5TXA4Z1A0aTI3MXFRS2JfeGhXQ3ZrM3RPODQ4clRobGdNR243elVlMDhlc0RIZ1FIVm1OdnJaaWs0YnZ6SExoaTYwQzhBaExQVTNTYlRBeW5hUVo1Sm5PeVBCYnctcg?oc=5",
+      "published": "Tue, 13 Oct 2026 12:07:11 GMT",
+      "source": "PCWorld"
+    },
+    {
+      "title": "'God of War,' 'Mandalorian & Grogu' Vets on Cinema-Gaming Crossover - Variety",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWlFnYThOeXJXekhpamFIQnVxazgzOXJpcDBQajBQQU1lUUxxaVdNUWp2NlRZelJ6ODZTWE1XSXBJMlctMUUxZFdnT294dzlJQVgtM002WGJ0TTRkWFRjZ0ZhX3ZiNHBDeEJGM2tWRE9icFl2X21lb2ZFN3NXcURVZ0pFenhVaVJSX3FxSDNGczRvM2ZCTmo1X1Zqa1d3ZUt3cVE?oc=5",
+      "published": "Tue, 13 Oct 2026 07:15:00 GMT",
+      "source": "Variety"
+    },
+    {
+      "title": "Epic Games takes a major turn toward AI development - Instant Gaming News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcDZDRkU0LXhNRjhFNjFIZUFhbm16SURsMS1hcGVoUl9TbE1HTXVGM2pZQUxQaHRhVnQ2dWNzaTNHNHFZRHVQdUY1TzZKb0pFV3ZPN0FoU0lfS0pqcFlHajl5QWYyRUg0WGtLVzlKNW9OdS1xVEpBNHRwZkw3emlFYVdoTnhiNWFjR2pRQU5xTTQxR3RLVUd1a003eHZFUU02N3dZ?oc=5",
+      "published": "Tue, 13 Oct 2026 10:01:53 GMT",
+      "source": "Instant Gaming News"
+    },
+    {
+      "title": "Clock is ticking as deadline looms for removal of skill games across Pa. - NBC10 Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMU5WeU5fVmtxeEJaUm5KLWx1OUhBeWN2Zlp0NXJOR1BXRE5Fcml6eXFaMm1TVlJURDdKTkpkOTQ5NDU4NW1CYlVLYWRseTFUUkpvMUxpbzJGVnRTT1hYYVRHZnBuaXZDUWY0ZE9TN2tSUG9rOEdEV2F3YkZ4cHlVaElvR1VpZ1pXTkwtMWpzbmF6Yk1qOERJTDQwbllzeldYY3l0eEZGUUNlamtfLWtRVTZOYklFUGU3NmxOc2lwOFNwQdIBygFBVV95cUxOS0lsNm1UeElBMVEzVnNMWUZkeFN5bkpPYXBVbnpBaVJDa2lNSU9xZDdaRU1tdkdfM285bUZOLWJPTUZpTy02Z09QQllndzNrbF9IS1Fub0l5WGlYQjdmb3RVa3hKNVRVTV9zaHhWTUtQLUs5ZmluNXZKRkUxUGJMa21JVzB1UVkyczZGQnFrQjIwZHplZFhGRHlkVXJkcEVUWjd4R3E3c19ZWmdNbjRfcmNYZnFzVkJlXzlHT2RxdGtxdW41Um9jaWhB?oc=5",
+      "published": "Tue, 13 Oct 2026 10:34:37 GMT",
+      "source": "NBC10 Philadelphia"
+    },
+    {
+      "title": "How Qiddiya-owned Evo plans to grow the fighting game community worldwide - Arab News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNko1cWhrOEZ5a0s4ZzRDSlR6S2U1YllRdXhBM0VTMVhtaF9UcjRTYlkxQzN2Q2syY0h5MXNSUEhxdUZ0UHVLbF9kUXdjOTdZU2ZHLXQtbFZTSlUwZHhmeEV6cUl3NzZscGxMSkgzM0ZwekRsdnl3NWxLOTZVdmFxZXhHRXpxbGdtODRFTmFTRUlRRFZjdXNYTVlNUDBSNnRCRDJfeUpZRDBNMUZBSEdRVFVR?oc=5",
+      "published": "Tue, 13 Oct 2026 10:30:38 GMT",
+      "source": "Arab News"
+    },
+    {
+      "title": "Fortnite-maker Epic Games confirms 'huge pivot' towards using AI - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2R3F5YUFOVndFdzZGMTFiUHZmVC1TeUZ2ZE1DVUIzNVdmd2M1TDJPSEdadGZFZWdleGxSb3FScUppN3g1T2R2TmNiMzlHMHNJZzdZRXJOeV9MZmxYTEE?oc=5",
+      "published": "Tue, 13 Oct 2026 10:20:08 GMT",
+      "source": "BBC"
+    },
+    {
+      "title": "Introducing Playground: Create and play custom games - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX3EtVDA1V3h6c1dxNS1yc3J0OWlnaDJBdFZER3FkOXpJam1rVUJsRzRQTEdDRG5TWjlraHBhVGEyYUlMUFM1MGp6QkFhTjVjQjl0aE5qbDVsODFiMHl5RWV5U1B6ZmQ4R05WUnVpTGJNRWNzSEF2bTl5QnE1U0F5U0dOMlphOUVMOVA3U2YyckNnb1AtSFhJ?oc=5",
+      "published": "Wed, 07 Oct 2026 12:17:07 GMT",
+      "source": "blog.google"
+    },
+    {
+      "title": "Xsolla Announces Direct Co-Marketing Campaigns Between Payment Providers and Video Game Developers - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOd0NQeUpPMGl2T05TRjlveklkeERUQnV5NW9ZYTdpU2huS1NxbTFhMWNCdXozLXRXTFV0WnoyMkZyMWhzdXB5R1JQbWdlSjVwQ25iTE1henk4eGtYcjBac2JaSzJQTDFIYy1qcTFWS1Noa0QyYW1iY1JIOWNfb21KOWlCS3RfRDZCYUUtbVVmSURIdGotb05HLVZpLVJmbGN1blg1Tkw1eGxHNFQ1ZWVydU5wX2VkRTFfN1RCaVh6bWFWOVRfREZvS1FrQVZ2TFhmVFRsTHZELVBSdGEwRXZrWXppWEo0U3ozYXBz?oc=5",
+      "published": "Tue, 13 Oct 2026 13:00:00 GMT",
+      "source": "Business Wire"
+    },
+    {
+      "title": "DLSS 5 Comes To Hogwarts Legacy & RTX Spark, Powered By 2X Faster Model - NVIDIA",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSjE5blNrbExoZFVLQ1IwSjNYRlhLdW93SWRrVVJmTUJ4MDVVaE5maXZNUWJUcE5WN0gxd2Jhb0hYTURnOVlTSGl1eEozcFlYRGtCUDVIaWlPODNEazVOcVpSUjZIaGIxSkp2TVJkQUFqWmpYaFRiQnczX2VOendSLVhyQWJxUjBZMkVIeHJfSUN5Wkh2bERlcnRfOGxST0Nw?oc=5",
+      "published": "Tue, 13 Oct 2026 11:59:23 GMT",
+      "source": "NVIDIA"
+    },
+    {
+      "title": "GTA 6 scams target gamers ahead of highly anticipated release - KPAX News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN0JNNElkR2pTNDZhQ05JSkdtN0RlTmhFUndaLWt5Vi1GQmdIeEd0VlRjcXhSUW54ZzQ4YldvZEx4S2ZReW9oS1ZBamhUM0Z5WU1xbVZjUEV4MDRETFlCRzk5SURVOEFMSFpoTXNKeHlud3BRb2FGQXY3VUZtLXhPelY3ZktocTZPOE1YTWxDWTJ5aExseTFJbjdsRU8?oc=5",
+      "published": "Tue, 13 Oct 2026 14:21:04 GMT",
+      "source": "KPAX News"
+    },
+    {
+      "title": "Games Inbox: What is the next FromSoftware game? - Metro.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUGVqOWhDd1d0YmR3S3ZtTkJXM1V3MWRFaGJXcWY2eGtZV0tGMjhlcmpMcnFzWEEyX040aEFDOTRCd1gtMF9WTEEzZWlGdmpKMTYtWTdXQmRWdTRhTjZvV293OU84bUxxdmpBeHNFU0IxRTlvZWcxbTdkRkxKblNtONIBhgFBVV95cUxPbGNvUUVBWkZ2ekxLTW9QTWlTNzJMTGtHR1FEeUNsdjlzTGJLZ0tWZmFhZ3pZdnozM2UzNk5uM21ScGgyZFdack53Ujh1cTUwU1FSamd4VlNyNXNyX0huOVM1UG5NbThjZW1pUTBJTEd0ODAxVnluTHNlX0dWbGs4M0NVb3VIZw?oc=5",
+      "published": "Tue, 13 Oct 2026 01:10:00 GMT",
+      "source": "Metro.co.uk"
+    },
+    {
+      "title": "Nintendo Confirms No Plans to Ditch Physical Switch 2 Games - PCMag UK",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZGgzYkdqS0lrS3ptdl9CZl90Wkw1ZG5wUmZUdHZVODlJMDRwbW9wTVlGTEVjUlhUTkRWOFVHbWlmVUtzNlBZLUZDMzlxUmdXVm1ZV3pwT2l0RXByc2gtd2NBdnBTblRoN0pjZkZsTjFGek1YVzVDLUlFN3VfZ1pSSnU0dW1ZOFVOVXYwbU1sTkhoaVo1dm1ZQndGRzBLcmVPQjVxejFvdl9DOVJoZGc?oc=5",
+      "published": "Tue, 13 Oct 2026 10:09:48 GMT",
+      "source": "PCMag UK"
+    },
+    {
+      "title": "Skillful Craftsman to acquire 70% stake in Singapore game developer By Investing.com - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRXJRV3RNRGdYd0d3Q1hTeS03X2Jzem9TeWd5R1hFTEtGUThVZnpGZEpLakIzWHlVc0RMLW9mS3hPUkxQZlc0VnFXdGxiVzJUam9rWnNNQ2x0OS1vbDN0c1hJSm1EZmtlSlhlNFMyR3JLVUNjaHBtNlJHcEY2bEZjeFpSTk5PQkNXVTRFanRvZXY0NjU2a29LVTJUTUVmSHctUndPWmxpNzZsbGZIdllKT3FGWlNxWU9EOUlvTXNIaGozSVllSlE?oc=5",
+      "published": "Tue, 13 Oct 2026 12:50:08 GMT",
+      "source": "Investing.com India"
+    },
+    {
+      "title": "Can a video game really help zoos? - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAya0tPYWlyelR4djFVaHRBal9ad3dMQm1Nc0ppakd5Z2FiVmg3V0g3bDJRbVZiWmo3dTdkdlMwSDE5RUhsOTJYaGNjVl9FVXphTEVuVHRrZ1VTVlU?oc=5",
+      "published": "Tue, 13 Oct 2026 11:10:52 GMT",
+      "source": "BBC"
+    },
+    {
+      "title": "DLSS This Week: Call of Duty®: Modern Warfare 4® Campaign Early Access, New Game Releases, DLSS 5 Gets Faster - NVIDIA",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY2pNS3pmZGRHQXR4MTRtcEd5RnFJV0RUaWg1X1BKdXJ5VWl5VjVNVE15S2Uxbm9kOWM1cnhDOVNiZ2p6c05LZDQ3bF9XVDFDRTdleXI0SFpnNVloX1hOZ2c4cWZNbXAxR0ktZWJiVXF5ZjY4RHI1d1haRkpRQ0tZcFpOZXNERHV6U1RlZUM4clFVZUItLWQxNWh1NnJoV2RPcFBhYmxR?oc=5",
+      "published": "Tue, 13 Oct 2026 12:23:55 GMT",
+      "source": "NVIDIA"
+    },
+    {
+      "title": "Guardians News: Got Game One - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYXRYanRSRDNFbVBCZ1BFZ0xUMWVpUXdFQXlrUFpwYTM0YmhFbnhCeDJUc0lrZkVPa0YtVVg0eDNwcUZuR2hlaXpUYmx5WkphdGhJQTNHdlQxNTNSYWNOZ0xUSTgzWExMTTFJcVAyakFzTWpDaEZFa1lYcmEwQTBQcTNn?oc=5",
+      "published": "Tue, 13 Oct 2026 11:50:10 GMT",
+      "source": "Yahoo Sports"
+    },
+    {
+      "title": "Epic Games delays Disney game and tells developers to go \"AI first\" - GamesIndustry.biz",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ3hKQUNuYUl4ZVNvNUZETkY5NVZCaGU1Z29mZXlMVlZxaUJKcVRaNGw5bkFXMjN0VGUtTTFVeV9NZ0hYMENMZDI2emF4WXh2b0VRYlJrcjNvRzlDeGxEVXU3RGJNODN0UDFocnNhRFNVWDI2NDBIWUgxTV9mSlNhQ0FfTnRoZGE2X0tBcmJ0YW1XWjlWZVMyZ3Q4WQ?oc=5",
+      "published": "Mon, 12 Oct 2026 19:54:58 GMT",
+      "source": "GamesIndustry.biz"
+    },
+    {
+      "title": "Pokémon director Shigeru Ohmori talks about Game Freak’s magical girl weather game Ame Nochi Hare Onna and how the project came to be - AUTOMATON",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZDM2QllPVkxzM0VYNzhleFdEemhKTnNzSlRSZmFXUV9aeDdrdnJqaFJXcGlob3RnbU5ablFhajEzNkNOVDBiZ09GN21GM0pVajJUazNkSERael9Wc0FuczdmMndVY1RSSEFuR2taOXg2U0RKYTM5dEZXb2JwRmRCclhPS1FPdjNLb2tNbFZ3aGIxSWpJbXlzbVFRZWlSek9fREFJMThTRHNBeHR2WEpaVWVUX2h2U0Y4Y3dwNUI1OHJaR1hQV2pJZF9JOEMtelFuakdqVlJnUGZtVUZTQVRVaUx3b2IwM1JOVmFER3RwM040U2d1dzBmcWdtMGFfQQ?oc=5",
+      "published": "Tue, 13 Oct 2026 11:00:00 GMT",
+      "source": "AUTOMATON"
+    },
+    {
+      "title": "Pa. skill games become illegal this week; here's how they differ from slot machines - LancasterOnline",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPLVlkeGFUYWNzMEZldEhUQTNfUmVnSWdXMjVxU0szQkROaDgzQkJBMVozTUlhVTAzcFdvaUlmOTVzaWJieDh5b1pKQlFmTFN3NGtXMUFaN2hUd0lDbEZJMmtPZTB5bXJXRElwSkM5X1VMenlBN2IyS3JTTVMtb3JsaHJUblV1M0tjekZhWmZkbmVSZW1sZ3NzYlhBc0pEUjdQZklYRjFjNGVRZXFYck8tdU1URk9GVC1oblZnUERPZS0yVF9ScE1vUUlZcmxTWkpBZWRvcnhCcFgwS2V5SHBTZFNRRFl0UUFQSTJ5OURJM1pZZTFtTWtoSnlCU2dCUQ?oc=5",
+      "published": "Tue, 13 Oct 2026 09:00:00 GMT",
+      "source": "LancasterOnline"
+    },
+    {
+      "title": "'Gaming pays me double what I earned as a teacher' - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uR0hiTzRtb2hOVjIydURrRndPTVpFbmc3S1E5d09HMHY5M3ppdWotWmxiN1BocWpISlZoTjljQmhmckN5aUZRS2RFSGhSbUlQNUE5bVVDc05BRmM?oc=5",
+      "published": "Sun, 27 Sep 2026 07:00:00 GMT",
+      "source": "BBC"
+    },
+    {
+      "title": "Five Xbox Games Are Out Today, Including A Twisted New First-Person Soulslike (October 13) - Pure Xbox",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT1BydlFFNDVkZk5oWTUwWndwODhPdGdWU2huVjktTnFBLThibXlHLTVKREcxWG5fTDVfdlRNYzR1c1ZXS2xKdTFGN3dWaU9ITWhKNnB2S2VGa2o2NE1vWXhEZDBjbFhpTWVXVjdvS1djWlNmOUFubEJrT3JXYWRaWnJNbFlhRFZiVFVGNklEN3I0WlJEb29xdFhwdWxXYm51dWRrRlBua2Q1V1d0eDFFYk9PeTY3eWNFbWZwWlBFODBpTzQ?oc=5",
+      "published": "Tue, 13 Oct 2026 10:00:00 GMT",
+      "source": "Pure Xbox"
+    },
+    {
+      "title": "Free Play Days – ARC Raiders, S.T.A.L.K.E.R. 2: Heart of Chornobyl, Little Nightmares III, Screamer, and More - XBOX Wire",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DbjlsbHlpUlBtWVV1VGpla2FHS284WXNOZ1J1Sy12cFlMMFpHNjlSTWl1NGNfaFIxakhxTUNFOXU0Sm5vRXZWc2JGcE1YTDZzQnpuaGRTVlVBbTZCYTJuMWdSNFZjOUdnQ0pBN29LQUNseXfSAXhBVV95cUxNbUtobklRLWwwaEZXelhCTHNBbE5QZlVJaUZtYzNGZ1hsekVxNHNKN2pqbTYyRWRsSEplbEw2Vk1sMUN0NzRUUW82dDM1Mm1nRk1OYktVd2FKeVA2T0xjeTFBRjlmNjJrZEkzZE1wdWxOd0lHeU52TGk?oc=5",
+      "published": "Thu, 08 Oct 2026 15:04:55 GMT",
+      "source": "XBOX Wire"
+    },
+    {
+      "title": "Four Xbox Games Are Getting Delisted In October 2026 - Pure Xbox",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVC05RHVMYlFha0s3QklIS3NZOW1uMXBuSDhxRXFFbnZyOEV6eGhZTk5tNU9xM1VGTnpzeGRnRG9tUFBUbWtmNVdhS2d1Mjk0VUV3em1oLU5uakhwOVE0SlR4WHR3SUNSRDEzN2RHUkc3TWFKV3V6WEc4T1o4bmhYU2UySTktelBCR0xTeW5UNXU3RGJ3?oc=5",
+      "published": "Tue, 13 Oct 2026 09:47:00 GMT",
+      "source": "Pure Xbox"
+    },
+    {
+      "title": "Tabletop gaming convention returning to Hudson Falls - NEWS10 ABC",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcGNBRk1mLWZjV0xfdzg4eXV5QzYzNHZfUEtzV19qb1JFTjdnRkdWcWd5V1Bva2dpNnRwNmJUb1BzMnA0RXp4Ukk2dlUzZGE0YmFMdGFUSUNWTFo2Y085WG8wVU1UcjJKNkF2N045SUFlWkE5UmdoU0VjS3NSUmNXLW42T3VuTjNabG14c3NONkxJYmhzTkh5eDMxUDJrZlNi0gGmAUFVX3lxTE9wWkh6bnl3RVVWTWQ5QUVSa0VTT3Q3WDJzSG1QZVRNMXdQSVV2VWNabW5NY1ZSZXVNZFREOU5EYlNjSzQxZTNsLUtDRUUtcUxqRGxGZmFLWE1ya0p3V1V0eVZFSHlQQ2ZyTm5rMHJyWnV0ektsS09YRFg2NUlqNWV6bTZIWGtKN1B6SmRsT2M3dUlTUDRTQ19tR3JFU2FqZ0tvbTRsV3c?oc=5",
+      "published": "Tue, 13 Oct 2026 15:22:08 GMT",
+      "source": "NEWS10 ABC"
+    },
+    {
+      "title": "‘The Walking Dead’s Chandler Riggs has made his own ‘Resident Evil’ film - NME",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcV9TbUM4UFNPMEIxNndqa3ZyemhHcWhkTkVBTk5TdkNpWjNIdDMyMnJOaTVvM0preC1LS0xjNmVSUnpfLUUzd0ZwQXFZTmxJcU5YMmt1VUIydnJxejEwSVhmeUtMbFo2Tkx2WEpYRE0tYUdlRDl2eHAyZEhaSjhjMGdIR0dmVWg1YVFDRkZxb29kVllZcTBlaENmTEpwRHd0MHRfdUZOVzc?oc=5",
+      "published": "Tue, 13 Oct 2026 10:33:20 GMT",
+      "source": "NME"
+    },
+    {
+      "title": "Welsh character Rhiannon introduced to Chinese game Reverse: 1999 - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ScDhXVWxDY3dNMUVqQjYzYTU0dy01NXY2NHpuLWdudjl2TFRJcmJpd25QYmcxeWFWamlLZWdDd2hLWHN3R0puUy01a0M2LTY0ZWN1b2FFNDhXNlQ0?oc=5",
+      "published": "Sat, 10 Oct 2026 20:51:41 GMT",
+      "source": "BBC"
+    },
+    {
+      "title": "Six Games Are Heading To Xbox Game Pass This Week (October 13-16) - Pure Xbox",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaFYxM202MkVwaWw3ZTFBT1J4czZNS1pBVEVHdDVTUWZIN09fZTVDb0xHRFkzbVNwaGFhYVJSVE9aUTA0WUlvT0paOXJ4SGdMa2liZjdmYTJLVXZtU1Rqb3FsLUJKYkYwZWlOVjRyV1BZeFI5Mm1IMUFIRkZ4Z2RHUVE0M3ZOMUpseHNtZ1cxY0V5VUxjMFJoOW10S01rQ25HRElr?oc=5",
+      "published": "Mon, 12 Oct 2026 13:00:00 GMT",
+      "source": "Pure Xbox"
+    },
+    {
+      "title": "Luna August Content Update - News - Amazon Game Studios",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81RTVwdkJ5d0RjX3U0YVNpU1lTOGRwbXhnSl9VelFibk5uU1dGaVM5OExza1RBRzRWUUlDMVE5cndrVHl2VGcyRUlzSDFORmlBMWNaamtUVC1CVVh6RkdqQ3RCRTZpb085LWxLaTBaWTZpYlVXWFhjeXFR?oc=5",
+      "published": "Thu, 13 Aug 2026 18:21:50 GMT",
+      "source": "Amazon Game Studios"
+    },
+    {
+      "title": "To turn NLCS around, Dodgers' offense needs to figure things out -- and quickly - MLB.com",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vR1JRaWU0aEd1ZGJvclNrMkpuMWJvdGhsbWZFcXE0UTROalhhVEF5MFVFdXBaMm9yWVZ5YXdRdkg2UDMxc0dqVlowVmFGT2M4ZXZ5a2ZFb0hudWl1MTFRTjk1VlA?oc=5",
+      "published": "Tue, 13 Oct 2026 07:30:46 GMT",
+      "source": "MLB.com"
+    },
+    {
+      "title": "Govt notifies Promotion and Regulation of Online Gaming Rules 2026, to take effect next month - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN1BlWmE2OWxHY1U3RlRjSlhVMEtaX21YQld1ZGhJd0g4YmFZak02NDQxeGI3ZHZzQmFCb0pMRlNENXhVWDdydnFRUGlSMERRZUZhY3RmZFdobmhTRnRiMk5XMjhIck9nc2o5b1VkSGlaZEt4Y2RlYjYyeEZxekFSQlpCVXlWYzZ1Z21RUmFlTjdZNjVFTTh0Q0pFSE5oRnVXMzY2ZlJSUnJOb2dCZ1lBRDdrWHVLYjJUbnc?oc=5",
+      "published": "Sat, 23 May 2026 18:09:56 GMT",
+      "source": "News On AIR"
+    },
+    {
+      "title": "Messick, once a fan at The Trop, will take the hill there as Guardians' ALCS Game 2 starter - MLB.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aaV96T3hOaTNFLTdPWVduWko0RU1hZ0tJcURnS2M3b1RGSm44ZGJCSXVGY0U1YU9BNy1lbnNyM2g5TUNIeXBuZjR1bDA5QkNaV1BjU1Z5aVdIV0U5Wmtlb2RHRlhEU012amdmMjNqVjNkTTg2dllmX2ZHWjJ4NWM?oc=5",
+      "published": "Tue, 13 Oct 2026 03:11:56 GMT",
+      "source": "MLB.com"
+    },
+    {
+      "title": "Guardians-Rays ALCS Game 2 FAQ (8 ET, TBS/HBO Max) - MLB.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNEk0bFgzMUFOcWRwZURtUmJqVHY5OGs5ZFpDLWh5dTBfTE9Hd2IwV01DaTFhTkxhSHhhbW9DV25JUFh6eXQ5ekZOaHFwcFFwX1haV0ZIUHhQUzhJZEttZ0dRQlExZ0VWV2xEWnFsVnlBRlZCdFRkeVVfUnZEZHRJd1Rzcm9LSDhFaVdKcy1TV1NDeVdNOXZZ?oc=5",
+      "published": "Tue, 13 Oct 2026 06:25:01 GMT",
+      "source": "MLB.com"
+    },
+    {
+      "title": "Govt sets up Online Gaming Authority to regulate gaming sector - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZDhDZnNFc002RmdaRHZXR1RVdkhWdzItYTdaamoxZnF2bG1OanZoY3haTk9fRGtzQzJtZ0p3dWJyMUxXcGpuUnV0UkZRcVp5c0pVSzZmejRHU1JTcTl1Tk5JWnlpcVVsZ0VwNjBZcTNGRzZtX1JKOFk1aVd6SUZWY3VScFRvS2NFc1RKcWpyWkRtUQ?oc=5",
+      "published": "Tue, 26 May 2026 22:57:23 GMT",
+      "source": "News On AIR"
+    },
+    {
+      "title": "Contreras shines as Dodgers' stars slump ... and other key takeaways from Game 2 - MLB.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQkM3eGdTWDZoVHY2am1kX00wMDd6YjZ0UkwtSFNfaWxGTE42bFRZZURKNXVVNGtkU3BYS0RKNE85VGVDaC1zd1ZrWlRSWjNQX2k4NXZEMkpfdmYyQzcteUxZMVFsYmpGMlNOMVZYak9VTnZkVzFLR3ppTG9iZVNwSEdQTlZFMXEtVzNB?oc=5",
+      "published": "Tue, 13 Oct 2026 09:10:34 GMT",
+      "source": "MLB.com"
+    },
+    {
+      "title": "Xbox boss 'thinking about affordability' of next-gen console - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtR3JMSWNhWTZiLWw1UjdZQVlzZHk4Vk9hVE1GSXhJVjNHWVpHRWpJWFl5NkYtRmVjQ3R2YWhlM0hFVEhoTGlMenpVbTl4MlUzbGM2MU5TZHdnQQ?oc=5",
+      "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "source": "BBC"
+    },
+    {
+      "title": "'1666: Amsterdam' Sets Early Access Release Date (Gaming Roundup) - Variety",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0pwNGFVNnEwWGlVcVVFeERKY3F5czNzWEhkSU5hdE1fYnBYdGJCUDlnUjYwSG5jMlMwUU1hQjNLRHlPc2tsTlNsdnpTYndKZmxSNzVOZkJvZVRtYXlaN3lPYkxUR3JTMFk2U0tGM0EzSUIwcHFzTVB2d2toSzZRSDEzZ2xkNTRob1lQbUJGNA?oc=5",
+      "published": "Thu, 13 Aug 2026 07:00:00 GMT",
+      "source": "Variety"
+    },
+    {
+      "title": "New Only On Stake Games At Stake.us: Frenzy, Salad Rush And A Mines Update - RG.org",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcHZOR3lxWFFNTkE2ZU5NVDlCZTZXc1I0Qmx2OE1WbE9kMElWdGxYQlRNaWdxWGFORUtxTXdYNzA2ZTNFc1VGbVBpdU84LUpFYTRVa2lndE85ZW50UjRqWDM0eTdzdlVNZFhyUkQ4RlFpSm02Zk8yUzdhd19xWG5razBWMHA?oc=5",
+      "published": "Tue, 13 Oct 2026 08:14:06 GMT",
+      "source": "RG.org"
+    },
+    {
+      "title": "3 storylines to watch for Game 2 of ALCS - MLB.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oaTNaTEtCR2VWNG9Ca2k2Mnd4SXRSX1ZHYURoVFgwQ2lHSVNJQWkyTGdRUFVjYVRyVkxkU3Zhb1JNQXUzbE1GZTRqSEYtcm9XVEtHTlVMNGEyUmdZal9Fb2syNFdqcFpiZVVyNEl1Z9IBe0FVX3lxTE5rS3RaRlFLc2dVSm9lQVdWN0hMaS1jSDRxUXdUSjhTREVpdnI1TXZKZ004Y3VvTHVFa0JBVGduaXY0aWVxbDI3Zm13dmdENVdrQlE4bDdESWRYbEo5SXZ1TlV4TmxfRldNMGtHd2gwV29wdFM3TGRiQ0pkSQ?oc=5",
+      "published": "Tue, 13 Oct 2026 04:36:12 GMT",
+      "source": "MLB.com"
+    },
+    {
+      "title": "Game Recap: Bears fall to Packers in Green Bay - Chicago Bears",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQXzRDYmxkYXlkMTlSbXdMVTBOQm1XZG5iUkgzeW9SWXpXeUVGTU5oYkk2T3N3S2JlWElKZFk3eW1KSmlsVW1NWDZoZ0pXdU5iUzNXUU1BY2FmWVhEQWIySi1CXzUybzJnelkycnhYblhqZk93RUVIdWlhODZsMThHbURaWS1BdEtiMU5fV25lOGhTLVpWUVE?oc=5",
+      "published": "Sun, 11 Oct 2026 23:42:45 GMT",
+      "source": "Chicago Bears"
+    },
+    {
+      "title": "Promotion & Regulation of Online Gaming Rules, 2026 comes into force - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT0o5V190TU4xOWhwX3lKbVp6dDNEcTJvT1FVNEpDNXUwbUVXd0NTdjJLOTk5NnRHZlp0VWtKSFBaaGdyUF9vNmk5MWphYnNWVC0tVk1aU2h2Vy1uQTk5UWxTVDlpa2NPY2N6TVlFX2pyc3pXUTBHRFE5d0lhX09KdFhwaVRkTGtfeTNUcTRvZDR3c2h1Q3c?oc=5",
+      "published": "Sun, 24 May 2026 19:57:44 GMT",
+      "source": "News On AIR"
+    }
+  ]
 }
